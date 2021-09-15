@@ -9,3 +9,4 @@ while True:
         window = current_window
         print(window)
     time.sleep(1)
+    
