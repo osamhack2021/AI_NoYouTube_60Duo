@@ -473,23 +473,15 @@ ML_1.py (Untracked) - AI_NoYoutube_60Duo [Codespaces] - Visual Studio Code - Cod
 Come As You Are - YouTube Music,0
 Finviz,0
 Google,0
-»õ ÅÇ,0
-NAVER,0
-³×ÀÌ¹ö MYBOX,0
 (0% - 0/1°³ ¾÷·Îµå Áß),0
 µ¥ÀÌÅÍ¼Â ºĞ·ù - Google °Ë»ö,1
 Ã¹ ¹øÂ° ½Å°æ¸Á ÈÆ·ÃÇÏ±â: ±âÃÊÀûÀÎ ºĞ·ù ¹®Á¦ | TensorFlow Core,1
-µ¥ÀÌÅÍ¼Â ¼ÅÇÃ - Google °Ë»ö,1
-[python] »ç¿ëÀÚ µ¥ÀÌÅÍ¼Â ¼ÅÇÃ,1
-"R, Python ºĞ¼®°ú ÇÁ·Î±×·¡¹ÖÀÇ Ä£±¸ (by R Friend) :: [Python numpy] Train, Test µ¥ÀÌÅÍ¼Â ºĞÇÒÇÏ±â (split train and test set)",1
 random_state - Google °Ë»ö,1
 python 3.x - scikit learnÀÇ train_test_split () ¸Ş¼Òµå,1
-Á¦¸ñ ¾øÀ½,0
 ÀÌ ½Ã±¹¿¡ °³ÀÎ±³½À - Åõ¹Í½º,0
 shuffle()¿¡¼­ buffer_sizeÀÇ Áß¿ä¼º - helloyjam¡¯s blog,1
 Train_test_split shuffle,1
 Train_test_split shuffle - Google °Ë»ö,1
-train_test_split ¸ğµâÀ» È°¿ëÇÏ¿© ÇĞ½À°ú Å×½ºÆ® ¼¼Æ® ºĞ¸®,1
 stratify - Google °Ë»ö,1
 ÆÄÀÌ½ã stratify - Google °Ë»ö,1
 °­ÀÇ 01 train_test_splitÀ¸·Î µ¥ÀÌÅÍ ³ª´©±â (stratify=y_data ¿É¼Ç) - Åä´ÚÅä´Ú ÆÄÀÌ½ã - ¸Ó½Å·¯´×,1
@@ -502,8 +494,6 @@ Embedding ÀÌ¶õ ¹«¾ùÀÎ°¡ ÀÌÇØÇÏ±â,1
 ¼ÒÄÏÀ¸·Î ÅØ½ºÆ® Àü¼Û - Google °Ë»ö,1
 ÆÄÀÌ½ã ¼ÒÄÏÀ¸·Î ÅØ½ºÆ® Àü¼Û - Google °Ë»ö,1
 https://proni.tistory.com/entry/-Python-socket-¿¬°á-¹®ÀÚ¿­-Àü¼Û,1
- Python * socket ¿¬°á + ¹®ÀÚ¿­ Àü¼Û,1
-"[ÆÄÀÌ½ã] ¼ÒÄÏ ÇÁ·Î±×·¡¹Ö-ÆÄÀÏ Àü¼Û, ÆÄÀÏ ¼ö½Å",1
 [network] ÆÄÀÌ½ã ¼ÒÄÏ Åë½Å : ³×ÀÌ¹ö ºí·Î±×,1
 ¸í¿ù ÀÏÁö :: [Python] Socket Åë½Å,1
 ÆÄÀÌ½ã ¼ÒÄÏ¼­¹ö - Google °Ë»ö,1
@@ -515,9 +505,6 @@ TCP ¼ÒÄÏ ¼­¹ö/Å¬¶óÀÌ¾ğÆ® ±¸Çö - ±âÃÊ °³³ä ´ÙÁö±â,1
 https://kimhyun2017.tistory.com/69,0
 (2) ¿¬°áÀ» ¿äÃ»ÇÏ´Â ¼ÒÄÏÀÇ ±¸Çö(Å¬¶óÀÌ¾ğÆ® ¼ÒÄÏ) ¹× ¼­¹ö Á¢¼Ó,1
 [±âº»] ¼ÒÄÏ(SOCKET)Åë½Å ÀÌ¶õ?,1
-ÄÚ·¦ - Google °Ë»ö,1
-Google Colab,1
-Colaboratory¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù - Colaboratory,1
 ConnectionRefusedError: [Errno 111] Connection refused - Google °Ë»ö,1
 ÆÄÀÌ½ã Python 2.7 : socket.error ¿À·ù [Errno 111]-¿¬°áÀÌ °ÅºÎµÇ¾ú½À´Ï´Ù.,1
 Python 2.7 : socket.error error [Errno 111] - connection refused - Stack Overflow,1
@@ -526,11 +513,6 @@ OSError: [Errno 113] No route to host - Google °Ë»ö,1
 socket error(113)!(113:No route to host) ¿¡·¯ ¹ß»ı½Ã : ³×ÀÌ¹ö ºí·Î±×,1
 Python 2.7 [Errno 113] No route to host - Stack Overflow,1
 Python 2.7 [Errno 113] È£½ºÆ® °æ·Î°¡ ¾ø½À´Ï´Ù.,1
-GitHub: Where the world builds software ¡¤ GitHub,1
-Join GitHub ¡¤ GitHub,1
-Sign in to GitHub ¡¤ GitHub,1
-GitHub,1
-osamhack2021/AI_NoYoutube_60Duo,1
 test ¡¤ osamhack2021/AI_NoYoutube_60Duo@11e7c57,1
 AI_NoYoutube_60Duo/web at main ¡¤ osamhack2021/AI_NoYoutube_60Duo,1
 AI_NoYoutube_60Duo/Server_html at main ¡¤ osamhack2021/AI_NoYoutube_60Duo,1
@@ -548,15 +530,854 @@ python - How to avoid this socket.error: [Errno 113] No route to host? - Stack O
 socket.error: [Errno 113] No route to host (Adding... - Cloudera Community - 34423,1
 ÇÃ¶ó½ºÅ©¼­¹ö ÅØ½ºÆ® Àü¼Û - Google °Ë»ö,1
 ÆÄÀÌ½ã ½Ç½Ã°£ ÅØ½ºÆ® Àü¼Û - Google °Ë»ö,1
-[Python] Socket°ú TCPServer¸¦ ÀÌ¿ëÇÑ TCP/IP ÇÁ·Î±×·¡¹Ö (ÀÛ¼ºÁß) :: ºÒ°õ,1
 PythonÀ¸·Î ½Ç½Ã°£ ·Î±× ÆÄÀÏ ¸ğ´ÏÅÍ¸µ ÄÚµå ±¸Çö,1
 ÆÄÀÌ½ã ¾ç¹æÇâ Åë½Å - Google °Ë»ö,1
 ÆÄÀÌ½ã ¾ç¹æÇâ Åë½Å,1
 python - ¼ÒÄÏ : ÆÄÀÌ½ãÀÇ ¾ç¹æÇâ Åë½Å - IT Åø ³İ,1
 Python Ã¤ÆÃ ÇÁ·Î±×·¥ ¸¸µé±â :: 1D1C,1
 ÆÄÀÌ½ã ¼ÒÄÏ Åë½Å - kwon | kwon's Blog,1
-Codespaces,1
 AI_NoYoutube_60Duo - Visual Studio Code,1
 AI_NoYoutube_60Duo [Codespaces] - Visual Studio Code - Codespaces,1
 [Preview] readme.md - AI_NoYoutube_60Duo [Codespaces] - Visual Studio Code - Codespaces,1
 test_1.py - AI_NoYoutube_60Duo [Codespaces] - Visual Studio Code - Codespaces,1
+ÆÄÀÌ½ã ¸ğ´ÏÅÍ¸µ ¼­¹ö - Google °Ë»ö,1
+¼­¹ö ¸ğ´ÏÅÍ¸µ | ¿ÍÅÇ,1
+"Python°ú Django ±â¹İÀÇ ¸ğ´ÏÅÍ¸µ ½Ã½ºÅÛ, Hubblemon",1
+[Python] ¸ğ´ÏÅÍ¸µ ±¸ÇöÀ» À§ÇÑ ¼ÒÄÏÅë½Å,1
+±¸±Û - Google °Ë»ö,0
+Google Docs,0
+Á¦¸ñ ¾ø´Â ¹®¼­ - Google Docs,0
+Google Drive,0
+³» µå¶óÀÌºê - Google Drive,0
+ÄÚµù Å×½ºÆ® - Google Drive,1
+Google ¹®¼­,0
+´Ù¿î·Îµå - Google Docs,0
+ÆÄÀÌ½ã ¸ğ´ÏÅÍ¸µ ÇÁ·Î±×·¥ - Google °Ë»ö,1
+ÆÄÀÌ½ã ¸ğ´ÏÅÍ¸µ ÇÁ·Î±×·¥,1
+ÆÄÀÌ½ã ½Ç½Ã°£ ¸ğ´ÏÅÍ¸µ - Google °Ë»ö,1
+ÆÄÀÌ½ã ½Ç½Ã°£ ¸ğ´ÏÅÍ¸µ,1
+ÆÄÀÌ½ã À¥ ¸ğ´ÏÅÍ¸µ,1
+Python ¾ÖÇÃ¸®ÄÉÀÌ¼Ç ¸ğ´ÏÅÍ¸µ | ¿ÍÅÇ,1
+ÆÄÀÌ½ã À¥ ¸ğ´ÏÅÍ¸µ - Google °Ë»ö,1
+ÆÄÀÌ½ã ¸ğ´ÏÅÍ¸µ »çÀÌÆ® ¸¸µé±â - Google °Ë»ö,1
+python dashboard ¸¸µé±â : ³×ÀÌ¹ö ºí·Î±×,1
+Build a web data dashboard in just minutes with Python | by JP Hwang | Towards Data Science,1
+Part 2. Layout | Dash for Python Documentation | Plotly,1
+ÆÄÀÌ½ã ¸ğ´ÏÅÍ¸µ ¼ÒÄÏ - Google °Ë»ö,1
+[Python] Port monitoring using socket module System Admin,1
+ÆÄÀÌ½ã ¼ÒÄÏ ÇÁ·Î±×·¡¹Ö (Python Socket Programming),1
+È¸Â÷º° ´çÃ·¹øÈ£ < ·Î¶Ç6/45 < ´çÃ·°á°ú | µ¿Çàº¹±Ç,0
+³»¹øÈ£ ´çÃ·È®ÀÎ < ·Î¶Ç6/45 < ´çÃ·°á°ú | µ¿Çàº¹±Ç,0
+´çÃ·³»¿ª < ·Î¶Ç6/45 < ´çÃ·°á°ú | µ¿Çàº¹±Ç,0
+¸¶ÀÌÆäÀÌÁö È¨ < ¸¶ÀÌÆäÀÌÁö | µ¿Çàº¹±Ç,0
+±¸¸Å´çÃ·³»¿ª < ±¸¸Å/´çÃ· < ¸¶ÀÌÆäÀÌÁö | µ¿Çàº¹±Ç,0
+Untitled0.ipynb - Colaboratory,0
+Lotto.ipynb - Colaboratory,0
+flatten - Google °Ë»ö,1
+sort - Google °Ë»ö,1
+sort() - Google °Ë»ö,1
+[Python] sort()¿Í sorted()·Î Á¤·ÄÇÏ±â  nc2u ºí·Î±×,1
+ÆÄÀÌ½ã not in - Google °Ë»ö,1
+"[Python] Æ÷ÇÔ(Containment) ¿¬»êÀÚ in, not in System Admin",1
+¸®½ºÆ® Á¤·É - Google °Ë»ö,1
+¸®½ºÆ® Á¤·Ä - Google °Ë»ö,1
+15. List(¸®½ºÆ®)(5) - ¸®½ºÆ® Á¤·Ä - ÆÄÀÌ½ã - ±âº»À» °¥°í ´ÛÀÚ!,1
+±¸¸ÅÇÏ±â < ¿¬±İº¹±Ç720+ < º¹±ÇÁ¤º¸ | µ¿Çàº¹±Ç,0
+¿¬±İº¹±Ç720,0
+¿Â¶óÀÎº¹±Ç,0
+[Errno 111] Connection refused - Google °Ë»ö,1
+Oserror errno 113 No route to host,1
+ÅØ½ºÆ® ¼ÒÄÏ Åå½Å - Google °Ë»ö,1
+À¯Æ©ºê - Google °Ë»ö,0
+https://www.youtube.com/premium,0
+YouTube Premium - YouTube,0
+Æ®À§Ä¡ - Google °Ë»ö,0
+³×ÀÌ¹ö - Google °Ë»ö,0
+³×ÀÌ¹ö ¸ŞÀÏ,0
+¹ŞÀº¸ŞÀÏÇÔ(10697) : ³×ÀÌ¹ö ¸ŞÀÏ,0
+¹ŞÀº¸ŞÀÏÇÔ(10698) : ³×ÀÌ¹ö ¸ŞÀÏ,0
+Twitch ·Î±×ÀÎ ÀÎÁõ¹øÈ£(10697),0
+(298) YouTube Premium - YouTube,0
+(298) ±¸µ¶ - YouTube,0
+(298) ½ºÅ³°¡¼Ó 500À» ¸ÂÃè½À´Ï´Ù¤»¤»¤»ÁøÈ¥°î 20ÃÊ ½ÇÈ­³Ä°í¤»¤»¤»¤»¡Ú±Í°» 10´Ü°è¡Ú ¿ì¸£ÇÁ Ä«¼­½º - YouTube,0
+"(298) [·Ñ]ÇÑ ÃµÀç°¡ ¹ß°ßÇÑ ""30ÀÏ"" ¸¸¿¡ ±×¸¶Âï´Â ¹ı - YouTube",0
+(298) Àå»ç°¡ ³Ê¹« ÀßµÅ¼­ ½½ÇÂ ÁÖÀ¯¼Ò ½Ã¹Ä·¹ÀÌÅÍ Á¤½ÄÆÇ - YouTube,0
+(298) 3½Ã°£ µ¿¾È °°Àº¸»¸¸ ÇÏ´Â ±×³àÀÇ ÁÖ»ç - YouTube,0
+(298) YouTube,0
+(298) Âù¶õÇÑ ¾ÆÀÌÅÛ 2°³ ¼±ÅÃ °¡´É?! ¶óÀÌ¾ùÀÇ Á¤½Å³ª°£ ¼¼±â¸» ²ÜÀë ÆĞÄ¡ ¤»¤»¤»¤»¤»¤»¤» - YouTube,0
+(298) ¾Æºê·¼½´µå ÇÏµå Æ®¶óÀÌ ÇÏ´Ù°¡ ¹ÌÄ£ »ç¶÷ | ·Î½ºÆ®¾ÆÅ© - YouTube,0
+(298) Å½»ö - YouTube,0
+(298) 1ÃÊ¿¡ 1°³¾¿ º´¶Ñ²± 1°³·Î ¹ã ²®ÁúÀ» ¹ş±æ¼ö ÀÖ¾ú³×¿ä! ¾à°£ÀÇ °úÀåÀÌÁö¸¸ Á¤¸» ¸¹ÀÌ ¹è¿ó´Ï´Ù - YouTube,0
+(298) ¼î¹Ì10 - YouTube,0
+(298) [ENG] [SMTM10] PRODUCER CYPHER I 10¿ù 1ÀÏ (±İ) ¹ã 11½Ã Ã¹.¹æ.¼Û - YouTube,0
+(298) ÀåºñÅ¿ ¸øÇÏ´Â PC¹æ ´Ù³à¿Ô½À´Ï´Ù - YouTube,0
+(298) ¿ÀÂ¡¾î°ÔÀÓ Ãâ¿¬Áøµé¿¡ ´ëÇØ ¸ô¶ú´ø Àç¹Õ´Â »ç½Çµé - YouTube,0
+(298) ¹è±¸ ½Ã±¸ÇÏ°í ¾ÆÆÄÇÏ´Â ±è¿¬¾Æ - YouTube,0
+(298) ½¬ÀÕ-¡Ú - YouTube,0
+(298) ¿ÀÂ¡¾î °ÔÀÓ 3ºĞ ¿ä¾à [Squid Game 3 minutes summary] - YouTube,0
+(298) ¸ÅÀÏÁ¦È÷ - YouTube,0
+(298) ÇÖµµ±× ½ºÆ©µğ¿À [ HOTDOG STUDIO ] - YouTube,0
+(298) ÇÖµµ±×TV - YouTube,0
+(298) ´Ù½Ã ½ÃÀÛµÈ µ¿°Å - YouTube,0
+(298) Å×¶ó½º È­´öÇÇÀÚ ÆÄÆ¼ - YouTube,0
+Immunomedics stock - Google °Ë»ö,0
+IMMU - Immunomedics Stock Price - Barchart.com,0
+ÀÌ¹Â³ë¸Şµñ½º - Google °Ë»ö,0
+"ImmunityBio, Inc. (IBRX) Stock Price, News, Quote & History - Yahoo Finance",0
+[Playlist] ³» ÃëÇâ ¾Ö½¬ ¾ÆÀÏ·£µå ³ë·¡ ¸ğÀ½ - YouTube,0
+¿À¹İ(OVAN) - ¾î¶»°Ô Áö³» / °¡»ç - YouTube,0
+±æ¸®¾îµå - Google °Ë»ö,0
+"Gilead Sciences, Inc. (GILD) Stock Price, News, Quote & History - Yahoo Finance",0
+"GILD 69.85 -1.09 -1.54% : Gilead Sciences, Inc. - Yahoo Finance",0
+tgÅ×¶óÇ»Æ½½º - Google °Ë»ö,0
+"TG Therapeutics, Inc. (TGTX) Stock Price, News, Quote & History - Yahoo Finance",0
+"¹ÙÀÌ¿À ¼º°ø ÅõÀÚ, 1%¸¦ À§ÇÑ ±æ¶óÀâÀÌ - ÆÊÀÌµ¥ÀÏ¸®",0
+"Novavax, Inc. (NVAX) Stock Price, News, Quote & History - Yahoo Finance",0
+"NVAX 207.31 3.78 1.86% : Novavax, Inc. - Yahoo Finance",0
+¸á·Î¸Á½º - °í¹é (¼¼ ¹øÂ° '°í¹é') / °¡»ç - YouTube,0
+³ë¹Ù¹é½º - Google °Ë»ö,0
+"Ú¸ Á¤ºÎ, ÇÑ±¹µµ µµÀÔÇÏ´Â ¡®³ë¹Ù¹é½º¡¯ ¹é½Å ¹Ì±¹ ³» »ı»ê Áß´Ü ¿äÃ» : µ¿¾Æ»çÀÌ¾ğ½º",0
+¿å½É ¸á·Î¸Á½º - YouTube,0
+[MV] MeloMance(¸á·Î¸Á½º) _ Just Friends(¿å½É) - YouTube,0
+"NVAX 192.02 -15.29 -7.38% : Novavax, Inc. - Yahoo Finance",0
+"NVAX 191.59 -15.72 -7.58% : Novavax, Inc. - Yahoo Finance",0
+"NVAX 192.20 -15.11 -7.29% : Novavax, Inc. - Yahoo Finance",0
+"NVAX 191.27 -16.04 -7.74% : Novavax, Inc. - Yahoo Finance",0
+"NVAX 191.09 -16.22 -7.82% : Novavax, Inc. - Yahoo Finance",0
+"NVAX 190.61 -16.70 -8.06% : Novavax, Inc. - Yahoo Finance",0
+"NVAX 190.87 -16.44 -7.93% : Novavax, Inc. - Yahoo Finance",0
+"NVAX 190.73 -16.58 -8.00% : Novavax, Inc. - Yahoo Finance",0
+"NVAX 189.75 -17.56 -8.47% : Novavax, Inc. - Yahoo Finance",0
+"SKBS (302440.KS) Stock Price, News, Quote & History - Yahoo Finance",0
+SKBS (302440.KS) Income Statement - Yahoo Finance,0
+"302440.KS 273,500.00 3,000.00 1.11% : SK bioscience Co.,Ltd. - Yahoo Finance",0
+¸á·Î¸Á½º(Melomance) - You - YouTube,0
+À±°Ç YOON GUN - ¿ì¸® µÑ¸¸ ¾Æ´Â Only we know¡¦ Official M/V - YouTube,0
+"Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance",0
+"TSLA 777.83 2.35 0.30% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.99 2.51 0.32% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 778.00 2.52 0.32% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 778.26 2.78 0.36% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.81 2.33 0.30% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.79 2.31 0.30% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 778.28 2.80 0.36% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.40 1.92 0.25% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.29 1.82 0.23% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.26 1.78 0.23% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.52 2.04 0.26% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.16 1.68 0.22% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.22 1.74 0.22% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.04 1.56 0.20% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.87 1.39 0.18% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.34 1.86 0.24% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.97 2.49 0.32% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 778.03 2.55 0.33% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.82 2.34 0.30% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.50 2.02 0.26% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.24 1.77 0.23% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 777.44 1.96 0.25% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.84 1.36 0.18% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.80 1.33 0.17% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.11 0.63 0.08% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.26 0.78 0.10% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 775.78 0.30 0.04% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.07 0.59 0.08% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.51 1.03 0.13% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.55 1.08 0.14% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.50 1.02 0.13% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.57 1.09 0.14% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.32 0.84 0.11% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.69 1.21 0.16% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.72 1.24 0.16% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.90 1.42 0.18% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 776.75 1.27 0.16% : Tesla, Inc. - Yahoo Finance",0
+°áÈ¥ Marriage - YouTube,0
+"TSLA 775.00 -0.48 -0.06% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.96 -0.52 -0.07% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.70 -0.78 -0.10% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.51 -0.97 -0.13% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.72 -0.76 -0.10% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.43 -1.05 -0.14% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.28 -1.20 -0.15% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 773.76 -1.72 -0.22% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 773.63 -1.85 -0.24% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 773.80 -1.67 -0.22% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.00 -1.48 -0.19% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.12 -1.36 -0.18% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.13 -1.35 -0.17% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.17 -1.31 -0.17% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.39 -1.09 -0.14% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.14 -1.34 -0.17% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.23 -1.25 -0.16% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.36 -1.11 -0.14% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.19 -1.29 -0.17% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 773.81 -1.67 -0.22% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.54 -0.94 -0.12% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.75 -0.73 -0.09% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 774.66 -0.82 -0.11% : Tesla, Inc. - Yahoo Finance",0
+³Ê¹« º¸°í½Í¾î - YouTube,0
+"¹¦ÇØ, ³Ê¿Í - YouTube",0
+tesla - Google °Ë»ö,0
+lucid motors - Google °Ë»ö,0
+´Ï¿À - Google °Ë»ö,0
+"TSLA 773.01 -2.47 -0.32% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 773.34 -2.14 -0.28% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 773.17 -2.31 -0.30% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 773.50 -1.98 -0.26% : Tesla, Inc. - Yahoo Finance",0
+"TSLA 773.92 -1.56 -0.20% : Tesla, Inc. - Yahoo Finance",0
+"NIO Inc. (NIO) Stock Price, News, Quote & History - Yahoo Finance",0
+NIO Inc. (NIO) Stock Historical Prices & Data - Yahoo Finance,0
+NIO 36.28 0.65 1.83% : NIO Inc. - Yahoo Finance,0
+NIO 36.28 0.65 1.81% : NIO Inc. - Yahoo Finance,0
+NIO 36.31 0.68 1.91% : NIO Inc. - Yahoo Finance,0
+´Ï¿À ÁÖ½Ä - Google °Ë»ö,0
+NIO 36.29 0.66 1.85% : NIO Inc. - Yahoo Finance,0
+NIO 36.33 0.70 1.96% : NIO Inc. - Yahoo Finance,0
+NIO 36.35 0.72 2.02% : NIO Inc. - Yahoo Finance,0
+NIO 36.36 0.73 2.05% : NIO Inc. - Yahoo Finance,0
+NIO 36.34 0.71 1.99% : NIO Inc. - Yahoo Finance,0
+NIO 36.32 0.69 1.94% : NIO Inc. - Yahoo Finance,0
+NIO 36.33 0.70 1.98% : NIO Inc. - Yahoo Finance,0
+NIO 36.35 0.72 2.01% : NIO Inc. - Yahoo Finance,0
+NIO 36.36 0.73 2.04% : NIO Inc. - Yahoo Finance,0
+NIO 36.35 0.72 2.03% : NIO Inc. - Yahoo Finance,0
+NIO 36.37 0.74 2.08% : NIO Inc. - Yahoo Finance,0
+NIO 36.37 0.74 2.06% : NIO Inc. - Yahoo Finance,0
+NIO 36.37 0.74 2.07% : NIO Inc. - Yahoo Finance,0
+NIO 36.38 0.74 2.09% : NIO Inc. - Yahoo Finance,0
+NIO 36.38 0.75 2.10% : NIO Inc. - Yahoo Finance,0
+NIO 36.39 0.76 2.13% : NIO Inc. - Yahoo Finance,0
+NIO 36.38 0.75 2.12% : NIO Inc. - Yahoo Finance,0
+NIO 36.38 0.75 2.11% : NIO Inc. - Yahoo Finance,0
+NIO 36.39 0.76 2.14% : NIO Inc. - Yahoo Finance,0
+NIO 36.41 0.78 2.19% : NIO Inc. - Yahoo Finance,0
+"½ºÆ®·¹ÀÌ (The Stray) - ³Ê, ³Ê / °¡»ç - YouTube",0
+"Àü±âÀÚ ¾÷Ã¼ ´Ï¿À ÁÖ°¡, ¿À¸£´Ù Æø¶ô µ¹º¯ ÀÌÀ¯´Â",0
+[Mint] Å«¼ÕµéÀº Å×½½¶ó ´ë½Å Áß±¹ Àü±âÂ÷ ¡®´Ï¿À¡¯¿¡ ÁÖ¸ñÇß´Ù - Á¶¼±ÀÏº¸,0
+ñé Àü±âÂ÷ ´Ï¿À ÁÖ°¡ ºüÁ³´Âµ¥ ±×·¡µµ ¸Å·ÂÀûÀÎ°¡?,0
+´Ï¿À Àç¹«Á¦Ç¥ - Google °Ë»ö,0
+´Ï¿À NIO(NIO Inc) | Àç¹«Á¦Ç¥ - ÃÊÀÌ½º½ºÅ¹US,0
+´« ¶°º¸´Ï ÀÌº°ÀÌ´õ¶ó - YouTube,0
+NIO 36.10 0.47 1.31% : NIO Inc. - Yahoo Finance,0
+"TAIWANSMFAC DRN (TSMC34.SA) Stock Price, News, Quote & History - Yahoo Finance",0
+TSMC34.SA 75.00 0.00 0.00% : TAIWANSMFAC DRN - Yahoo Finance,0
+TSMC34.SA 74.95 -0.05 -0.07% : TAIWANSMFAC DRN - Yahoo Finance,0
+"TAIWANSMFAC DRN (TSMC34.SA) Analyst Ratings, Estimates & Forecasts - Yahoo Finance",0
+TSMC34.SA 74.75 -0.25 -0.33% : TAIWANSMFAC DRN - Yahoo Finance,0
+TSMC34.SA 74.73 -0.27 -0.36% : TAIWANSMFAC DRN - Yahoo Finance,0
+"SM Energy Company (SM) Stock Price, News, Quote & History - Yahoo Finance",0
+SM 27.40 1.02 3.88% : SM Energy Company - Yahoo Finance,0
+"SamsungElec (005930.KS) Stock Price, News, Quote & History - Yahoo Finance",0
+Samsung Electronics close to finalising $17 billion Texas chip plant -sources,0
+Sense of Betrayal (°í¹«½Å °Å²Ù·Î ½ÅÁö¸¶) - YouTube,0
+È¨ ÆäÀÌÁö,0
+"MSN - ´º½º, ÇÖ¸ŞÀÏ, Hotmail, Skype, ¾Æ¿ô·è ¸ŞÀÏ, ¿øµå¶óÀÌºê",0
+Å©·Ò - Bing,0
+https://www.google.co.kr/chrome/,0
+Chrome À¥ºê¶ó¿ìÀú,0
+Chrome¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù,0
+³İÇÃ¸¯½º - Google °Ë»ö,0
+³İÇÃ¸¯½º´ëÇÑ¹Î±¹ - ÀÎÅÍ³İÀ¸·Î TV ÇÁ·Î±×·¥°ú ¿µÈ­¸¦ ½ÃÃ»ÇÏ¼¼¿ä,0
+Netflix,0
+ÄÄÇ»ÅÍÈ°¿ë´É·Â 1±Ş ÇÊ±â - YouTube,0
+2½Ã°£¸¸¿¡ ¿Ï¼ºÇÏ´Â ÄÄÇ»ÅÍÈ°¿ë´É·Â 1±Ş ÇÊ±â ÇÙ½É¿ä¾à 1°ú¸ñ ÄÄÇ»ÅÍÀÏ¹İ/ÄÄÇ»ÅÍ(EDPS)/¿î¿µÃ¼Á¦/Windows10/³×Æ®¿öÅ©/ÀÎÅÍ³İ/¸ÖÆ¼¹Ìµğ¾î/Á¤º¸Åë½Å/º¸¾È/µ¶ÇĞ/¹«·áÀÎ°­/ÄÄÈ°²ÜÆÁ - YouTube,0
+®‘ - Google °Ë»ö,0
+ÃÖ°­ ÀÚ°İÁõ ±âÃâ¹®Á¦ ÀüÀÚ¹®Á¦Áı CBT,0
+È¨ - ³İÇÃ¸¯½º,0
+³İÇÃ¸¯½º,0
+½ÃÃ» Á¦ÇÑ - °èÁ¤ - ³İÇÃ¸¯½º,0
+³İÇÃ¸¯½º ÇÁ·ÎÇÊ Àá±İ - Google °Ë»ö,0
+ÇÁ·ÎÇÊ Àá±İ ¶Ç´Â Àá±İ ÇØÁ¦ ¹æ¹ı,0
+°èÁ¤ ¼³Á¤ - ³İÇÃ¸¯½º,0
+ÇÁ·ÎÇÊ Àá±İ - °èÁ¤ - ³İÇÃ¸¯½º,0
+´ëÅ»Ãâ ½ÃÁğ4 ´Ù½Ãº¸±â - Google °Ë»ö,0
+´ëÅ»Ãâ ½ÃÁğ4 11È­ ´Ù½Ãº¸±â,0
+´ëÅ»Ãâ ½ÃÁğ4 12È­ ´Ù½Ãº¸±â,0
+´ëÇÑÇ×°ø - Google °Ë»ö,0
+´ëÅ»Ãâ4 ´Ù½Ãº¸±â - Google °Ë»ö,0
+´ëÅ»Ãâ ½ÃÁğ4 10È­ ´Ù½Ãº¸±â,0
+¼ºÀÎ¿µÈ­ 1 ÆäÀÌÁö,0
+[±ØÀåÆÇ] ¾Ö´Ï¸ŞÀÌ¼Ç 1 ÆäÀÌÁö,0
+¹Ì±¹µå¶ó¸¶ 1 ÆäÀÌÁö,0
+¹Ì±¹µå¶ó¸¶ 2 ÆäÀÌÁö,0
+¿şÀÌºê - Google °Ë»ö,0
+¿şÀÌºê (wavve),0
+±èÈñÁø ±ä¸Ó¸® - Google °Ë»ö,0
+https://www.google.com/search?q=±èÈñÁø+±ä¸Ó¸®&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiEzoHzqKnzAhVOx2EKHeKjCuoQ_AUoAXoECAEQAw&biw=1680&bih=939&dpr=1,0
+¹è±¸¼±¼ö ±èÈñÁø ³²ÀÚÄ£±¸ - Google °Ë»ö,0
+¿ÀÁö¿µ - Google °Ë»ö,0
+https://www.google.com/search?q=¿ÀÁö¿µ&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj_seSZrKnzAhUGBt4KHZ9GDfgQ_AUoAXoECAEQAw&biw=1680&bih=939&dpr=1,0
+Coldplay X BTS - My Universe (Official Video) - YouTube,0
+Æ®¿ÍÀÌ½º - YouTube,0
+"TWICE ""The Feels"" M/V - YouTube",0
+±³µµ¼Ò¿¡ ÆÛÁø Á»ºñ ¹ÙÀÌ·¯½º - YouTube,0
+¹Ì±¹µå¶ó¸¶ 3 ÆäÀÌÁö,0
+¹Ì±¹µå¶ó¸¶ 4 ÆäÀÌÁö,0
+¹Ì±¹µå¶ó¸¶ 5 ÆäÀÌÁö,0
+¹Ì±¹µå¶ó¸¶ 6 ÆäÀÌÁö,0
+youtube - Bing,0
+https://www.youtube.com/,0
+https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F,0
+³Ê¹« Àß ¸¸µé¾î¼­ ºñÆÇÇÑ Æò·Ğ°¡µéÀÌ ¿ÀÈ÷·Á °ü°´µé¿¡°Ô ¿åÀ» ¹Ù°¡Áö·Î ¸ÔÀº ·¹Àüµå ¿µÈ­ - YouTube,0
+"Àª ½º¹Ì½º ""°áÈ¥Àº °¨¿Á ¾Æ³Ä""..¾Æ³» ºÒ·ûµµ OK!",0
+±Í¿©¿ò ÇÑµµÃÊ°ú ¡®¼¼Æ÷µé¡¯ ´ö¿¡ ±è°íÀº¡¤¾Èº¸ÇöÀÌ ´õ »ç¶û½º·´´Ù,0
+"""22»ì È¸Ãá±Ş"" È«»ó¼ö, ¢¾±è¹ÎÈñ ¸¸³ª±â 'Before&After' ¾ó¸¶³ª ´Ù¸£±æ·¡? (Oh!½ë ÀÌ½´) [Á¾ÇÕ]",0
+±è¹ÎÈñ È«»ó¼ö - Google °Ë»ö,0
+±è¹ÎÈñ È«»ó¼ö ³ªÀÌÂ÷ - Google °Ë»ö,0
+¹è±¸ ½Ã±¸ÇÏ°í ¾ÆÆÄÇÏ´Â ±è¿¬¾Æ - YouTube,0
+´Ş´ŞÇÑ³ë·¡ - YouTube,0
+" ³Ê¶û °°ÀÌ µéÀ¸·Á°í, ¸ù±Û¸ù±Û ¼³·½ °¡µæ ´Ş´ŞÇÑ »ç¶û ³ë·¡ ¸ğÀ½¤ÓPLAYLIST - YouTube",0
+³×ÀÌ¹öÀ¥Å÷ - Google °Ë»ö,0
+¿¬¾ÖÇõ¸í :: ³×ÀÌ¹ö ¸¸È­,0
+¿¡µàÀª - Bing,0
+¿¡µàÀª - ²ŞÀ» Çö½Ç·Î ¸¸µå´Â ±³À°±â¾÷,0
+https://comic.naver.com/webtoon/detail?titleId=570503&no=151&weekday=thu,0
+[Playlist] ÀÜÀÜÇÏÁö¸¸ Àû´çÈ÷ Èï¾ó°Å¸®±â ÁÁÀº ³ë·¡ ¸ğÀ½ | ¹àÁö¸¸ ½Ã²ô·´Áö ¾ÊÀº ¹Ìµğ¾ö ÅÛÆ÷ ³ë·¡ ¸ğÀ½ - YouTube,0
+https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=Àü¹®ÇÏ»ç,0
+Àü¹®ÇÏ»ç : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=Àü¹®ÇÏ»ç+¿ù±Ş&oquery=Àü¹®ÇÏ»ç&tqi=hSNk1sprvTVss4XxNDossssss%2Fd-269272,0
+Àü¹®ÇÏ»ç ¿ù±Ş : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+987868 : ³×ÀÌ¹ö ºí·Î±×,0
+2021 Àü¹®ÇÏ»ç ¿ù±Ş ¶±°ª ¸éÁ¢ ÅğÁ÷±İ ¿¹ºñ.. : ³×ÀÌ¹öºí·Î±×,0
+³×ÀÌ¹ö ³¯Â¥ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+https://search.naver.com/search.naver?sm=tab_sug.top&where=nexearch&query=20°³¿ù+¼ºÆøÇà&oquery=³×ÀÌ¹ö+³¯Â¥&tqi=hSNN7wprvh8ss45Uhg0ssssstUG-067471&acq=20&acr=1&qdt=0,0
+20°³¿ù ¼ºÆøÇà : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+Å©¸®µåÆ÷½ºÆ® : ³×ÀÌ¹ö ºí·Î±×,0
+[Ãæ°İ] ´ëÀü Ä£ºÎ 20°³¿ù¾Æ±â ¼ºÆøÇà »ìÇØ... : ³×ÀÌ¹öºí·Î±×,0
+2022 ´Ş·Â : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+Àü¹®ÇÏ»ç ÅğÁ÷±İ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+ÀÓ±âÁ¦ºÎ»ç°ü Àü¹®ÇÏ»ç 6°³¿ù º´º¹¹«±â°£ »êÀÔ ÅğÁ÷±İ : Áö½ÄiN,0
+±×Àú ³ë¸»ÇÑ »î : ³×ÀÌ¹ö ºí·Î±×,0
+º´»ç¿¡¼­ °£ºÎ·Î! 'À°±º' ÀÓ±âÁ¦ ºÎ»ç°ü (±¸.. : ³×ÀÌ¹öºí·Î±×,0
+¿¹ºñ±º ±â°£ - Google °Ë»ö,0
+¿¹ºñ±º ³ªÀÌ - Google °Ë»ö,0
+¿¹ºñ±º/´ëÇÑ¹Î±¹ - ³ª¹«À§Å°,0
+https://jtse.tistory.com/entry/¿¹ºñ±º-³¡³ª´Â-³ªÀÌ,0
+¿¹ºñ±º ³¡³ª´Â ³ªÀÌ,0
+Àâ¼³ÀÌ~ : ³×ÀÌ¹ö ºí·Î±×,0
+Àü¹®ÇÏ»ç ÃÑ ¿ù±Ş ³»¿ª : ³×ÀÌ¹ö ºí·Î±×,0
+Àü¹®ÇÏ»ç ¿¡ ´ëÇÑ ÈÄ±â : ³×ÀÌ¹ö ºí·Î±×,0
+Àü¹®ÇÏ»ç ¿ù±Ş : Áö½ÄiN,0
+Àü¹®ÇÏ»ç ¿ù±Ş Áú¹® : Áö½ÄiN,0
+¿À´ÃÀÇÀ¯¸Ó - Àü¹®ÇÏ»ç vs ¾Ë¹Ù,0
+Àü¹®ÇÏ»ç ½Ç¼ö·É¾× : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+Àü¹®ÇÏ»ç ½Ç¼ö·É¾×¿¡´ëÇØ¼­ ±Ã±İÇÕ´Ï´Ù : Áö½ÄiN,0
+ÀçÀßÀçÀß ÀÌ¾ß±â ÆÑÅä¸® : ³×ÀÌ¹ö ºí·Î±×,0
+2020 Àü¹®ÇÏ»ç ¿ù±Ş ½Ç¼ö·É¾×Àº ¾ó¸¶³ª µÉ±î.. : ³×ÀÌ¹öºí·Î±×,0
+¡Ü¿¡ÆèÆ÷¡Ü FPS °ÔÀÓ Àü¹® Ä¿¹Â´ÏÆ¼ [FMF] : ³×ÀÌ¹ö Ä«Æä,0
+Àü¹®ÇÏ»ç °ü·Ã Áú¹® : ³×ÀÌ¹ö Ä«Æä,0
+https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=Àü¹®ÇÏ»ç+¼¼ÈÄ&oquery=Àü¹®ÇÏ»ç+½Ç¼ö·É¾×&tqi=hSNQidp0J1Zssv7ekmsssssstsC-165992,0
+Àü¹®ÇÏ»ç ¼¼ÈÄ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+±º¹Ù¸® : ³×ÀÌ¹ö ºí·Î±×,0
+Àü¹®ÇÏ»ç 2020³â ºÀ±Ş : ³×ÀÌ¹ö ºí·Î±×,0
+https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=Àü¹®ÇÏ»ç+25ÀÏ&oquery=Àü¹®ÇÏ»ç+¼¼ÈÄ&tqi=hSNQrwp0YiRsshi6Utwssssss8C-082371,0
+Àü¹®ÇÏ»ç 25ÀÏ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+Àü¹®ÇÏ»ç µÇ´Â ¹æ¹ı : Áö½ÄiN,0
+https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=Àü¹®ÇÏ»ç+½Ä»çÁ¦°ø&oquery=Àü¹®ÇÏ»ç+25ÀÏ&tqi=hSNQ3wp0Yihss4tq7mdssssssLK-156894,0
+Àü¹®ÇÏ»ç ½Ä»çÁ¦°ø : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+Àü¹®ÇÏ»ç ¹ä : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=Àü¹®ÇÏ»ç+½Ä»ç&oquery=Àü¹®ÇÏ»ç+¹ä&tqi=hSNltlp0J14ssigKuCosssssss4-484003,0
+Àü¹®ÇÏ»ç ½Ä»ç : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=Àü¹®ÇÏ»ç+Ãß°¡Áö±Ş&oquery=Àü¹®ÇÏ»ç+½Ä»ç&tqi=hSNl5dp0JywssmnRa2Cssssssgl-318243,0
+Àü¹®ÇÏ»ç Ãß°¡Áö±Ş : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+Âù¶õÇÑ 20´ë¸¦ À§ÇØ : ³×ÀÌ¹ö ºí·Î±×,0
+Àü¹®ÇÏ»ç ¿ù±ŞÀ» ³¹³¹ÀÌ ÆÄÇìÄ¡´Ù! : ³×ÀÌ¹ö ºí·Î±×,0
+ML_3.py - AI_NoYoutube_60Duo [Codespaces] - Visual Studio Code - Codespaces,1
+ML_3.py (Untracked) - AI_NoYoutube_60Duo [Codespaces] - Visual Studio Code - Codespaces,1
+ML_3.py (Index) - AI_NoYoutube_60Duo [Codespaces] - Visual Studio Code - Codespaces,1
+ÆÄÀÌ½ã ¼Ò½º ÇÑ±Û ÀÎÄÚµù ÁöÁ¤(Æß),1
+Continuous Integration with GitHub - CircleCI,1
+ML_3.py (Working Tree) - AI_NoYoutube_60Duo [Codespaces] - Visual Studio Code - Codespaces,1
+AI_NoYoutube_60Duo/ML_3.py at main ¡¤ osamhack2021/AI_NoYoutube_60Duo,1
+ML3 ¡¤ osamhack2021/AI_NoYoutube_60Duo@c3d7f79,1
+Editing AI_NoYoutube_60Duo/ML_3.py at main ¡¤ osamhack2021/AI_NoYoutube_60Duo,1
+AI_NoYoutube_60Duo/ML_2.py at main ¡¤ osamhack2021/AI_NoYoutube_60Duo,1
+ÆÄÀÌ½ã mysql - Google °Ë»ö,1
+PythonÀ¸·Î MySQL »ç¿ëÇÏ±â - PyMySQL ¶óÀÌºê·¯¸® with Pandas,1
+µµ·Î¸íÁÖ¼Ò °³¹ßÀÚ¼¾ÅÍÀÇ ¿ÀÇÂ µ¥ÀÌÅÍ¸¦ ÀÌ¿ëÇØ MySQL ÁÖ¼ÒDB ±¸ÃàÇÏ±â (DB Åø ÃßÃµ - Sequel Pro),1
+mysql user name - Google °Ë»ö,1
+Mysql »ç¿ëÀÚ Á¶È¸/Ãß°¡/»ı¼º/»èÁ¦,1
+"OperationalError: (1049, ""Unknown database 'mydb'"") - Google °Ë»ö",1
+"OperationalError: (1130, ""DESKTOP-LULB0DQ' is not allowed to connect to this MySQL server"" - Google °Ë»ö",1
+MySQL ¿ÜºÎ Á¢¼Ó (ERROR 1130 (00000): Host 'x.x.x.x' is not allowed to connect to this MySQL server),1
+»îÀº ¿¹¹è´Ù. :: mysql »ç¿ëÀÚ Ãß°¡ ¹× error 1130 Ã³¸®,1
+https://intro0517.tistory.com/2,0
+MySQL ¿ÜºÎÁ¢¼Ó Çã¿ëÇÏ±â,1
+mysql ¿ÜºÎÁ¢¼Ó - Google °Ë»ö,1
+MySQL ¿ø°İ Á¢¼Ó Çã¿ë - Á¦Å¸À§Å°,1
+https://lastcard.tistory.com/156,0
+"MySQL ¿ÜºÎÁ¢¼Ó ±ÇÇÑ ¼³Á¤, º¯°æ ¹× Á¦°Å",1
+ERROR 1064 (42000): You have an error in your SQL syntax; - Google °Ë»ö,1
+[SQL] ÀÚÁÖ³ª´Â SQL ¿¡·¯ ÇØ°á¹ı ¹× ¾Ë¾Æº¸±â + NULL °ªÀÇ ÀÌÀ¯.,1
+[Mysql/jdbc] Äõ¸®¹®¿¡¼­ ¹®¹ı¿¡·¯°¡ ³¯ °æ¿ì°¡ ÀÖ´Ù.,1
+MySQL ¿ÜºÎ Á¢¼Ó,1
+oyeon (Hoyeon Choi) - velog,1
+Best of You - YouTube Music,1
+ÆÄÀÌ½ã Python MySQL DB »ç¿ë¹ı DB¿¬µ¿ : ³×ÀÌ¹ö ºí·Î±×,1
+ÆÄÀÌ½ã mysql db »ı¼º - Google °Ë»ö,1
+Python MySQL #2. µ¥ÀÌÅÍº£ÀÌ½º ¸¸µé±â :: ¸ÅÀÏÀÇ °øºÎ¸¦ ±â·ÏÇÕ´Ï´Ù,1
+ProgrammingError: Access denied for user 'monitoring'@'%' to database 'mydatabase' - Google °Ë»ö,1
+MySQL - ERROR 1045 (28000): Access denied for user - Database Administrators Stack Exchange,1
+"[python]ÆÄÀÌ½ã/µ¥ÀÌÅÍº£ÀÌ½º/DB »ı¼º/execute, CREATE DATABASE : ³×ÀÌ¹ö ºí·Î±×",1
+"Python - MySQL DB »ı¼º, »èÁ¦",1
+"OperationalError: (1044, ""Access denied for user 'monitoring'@'%' to database 'testdb'"") - Google °Ë»ö",1
+"Ãë¹Ì·Î ÇÏ´Â ÇÁ·Î±×·¡¹Ö !!! :: mysql -- »ç¿ëÀÚ Ãß°¡, ±ÇÇÑ ºÎ¿©",1
+[MySQL] ERROR 1044 (42000): Access denied for user 'user'@'localhost' to database 'userdb' ¿¡·¯ ÇØ°á ¹æ¹ı : ³×ÀÌ¹ö ºí·Î±×,1
+mysql command ¹ÛÀ¸·Î³ª¿À±â - Google °Ë»ö,1
+command-line - ¸¦ Á¾·áÇÏ´Â ¹æ¹ı MySQL ¸í·É ÇÁ·ÒÇÁÆ®? - Answer-ID,1
+mysql command line »ç¿ë¹ı : ³×ÀÌ¹ö ºí·Î±×,1
+Mysql 1044 ¿¡·¯ - Google °Ë»ö,1
+Mysql 1044 ¿¡·¯,1
+mysql ±ÇÇÑºÎ¿© - Google °Ë»ö,1
+mysql »ç¿ëÀÚÃß°¡/DB»ı¼º/±ÇÇÑºÎ¿© - nickjoIT,1
+"[MySQL] »ç¿ëÀÚ ¸ñ·Ï, Ãß°¡, Á¦°Å ¹× ±ÇÇÑ ºÎ¿©, Á¦°Å",1
+ÆÄÀÌ½ã mysql »ç¿ë¹ı - Google °Ë»ö,1
+[Python] ÆÄÀÌ½ãÀ¸·Î mysql µ¥ÀÌÅÍº£ÀÌ½º Á¢±ÙÇÏ±â (pymysql »ç¿ë¹ı),1
+mysql »ç¿ë¹ı - Google °Ë»ö,1
+MySql ÀÇ ±âº» »ç¿ë¹ı°ú ÁÖ¿ä ¸í·É¾îµé ÃÑÁ¤¸®,1
+[MySQL] MySQL DB ±âº» »ç¿ë¹ı :: Áñ°Å¿îÀÎ»ı (½ÇÆĞ ¶ÇÇÏ³ªÀÇ ¼º°ø),1
+MySQL »ç¿ë¹ı,1
+MySQL ¼Ò°³ ¹× ±âº» »ç¿ë¹ı - »ıÈ°ÄÚµù,1
+"[MySQL] ±âº» »ç¿ë¹ı, ¼³Ä¡¿Í ±âÃÊ Äõ¸®¹× ¿¹Á¦ (feat. Ubuntu 20.04)",1
+MySQL Workbench »ç¿ë¹ı - Google °Ë»ö,1
+MySQL Workbench »ç¿ë¹ı,1
+[MySQL] MySQL Workbench »ç¿ë¹ı - Heee's Development Blog,1
+"23:18:26 insert into user (name, email) values (¡®heee¡¯, ¡®heee@email.com¡¯) Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@email.com¡¯)' at line 1 0.000 sec - Google °Ë»ö",1
+php - MySQL syntax error #1064 - INSERT - Stack Overflow,1
+php - MySQL ±¸¹® ¿À·ù #1064 - INSERT - CODE ÇØ°á µÈ ¹®Á¦,1
+"OperationalError: (1045, ""Access denied for user 'test'@'localhost' (using password: YES)"") - Google °Ë»ö",1
+OperationalError: (1045 - Google °Ë»ö,1
+"[Python Error Á¤¸®] pymysql.err.OperationalError: (1045, ""Access denied for user 'root'@'localhost' (using password: YES)"") :: ¿ä¹ÌÅä¸®",1
+"ProgrammingError: (1007, ""Can't create database 'testdb'; database exists"") - Google °Ë»ö",1
+https://www.codingfactory.net/11333,0
+"MariaDB / DATABASE / ¸¸µé±â, »èÁ¦ÇÏ±â, ÀÌ¸§ º¯°æÇÏ±â  CODING FACTORY",1
+mysql csv µ¥ÀÌÅÍ ³Ö±â - Google °Ë»ö,1
+[MySQL] MySQL¿¡¼­ CSVÆÄÀÏ ImportÇÏ±â  Pool's Taek,1
+mysql db csv ÆÄÀÏ·Î - Google °Ë»ö,1
+MySQL select °á°ú csv ÆÄÀÏ·Î ÀúÀå ÇÏ±â,1
+[MySQL] DB Äõ¸® °Ë»ö°á°ú¸¦ CSVÆÄÀÏ·Î ¹Ù·Î ÃßÃâÇÏ±â :: ¼¾ÀÇ ¹é°ú»çÀü ºí·Î±×,1
+mysql ¿¡ µ¿ÀûÀ¸·Î µ¥ÀÌÅÍ ³Ö±â - Google °Ë»ö,1
+sql - MySQLÀÇ µ¿Àû Å×ÀÌºí¿¡ µ¥ÀÌÅÍ¸¦ »ğÀÔÇÏ´Â ¹æ¹ıÀº ¹«¾ùÀÔ´Ï±î?,1
+Ä¡¸¶¿À - Google °Ë»ö,0
+"»Ç·ÕÀÌ³× ÀÎ»ı»ç :: ´ëÃ»] ¹¹µç °¡´ÉÇÑ ÀÏ½Ä ¿ä¸®Á¡, Ä¡¸¶¿À",0
+Ä¡¸¶¿À º»°İ°¡¶ó¾Æ°Ôµ¿ - Google °Ë»ö,0
+Àá½Ç ¸ÀÁı | Ä¡¸¶¿À ¡°º»°İ°¡¶ó¾Æ°Ôµ¿¡± : ³×ÀÌ¹ö ºí·Î±×,0
+Show Me How to Live - YouTube Music,0
+Parallel Universe - YouTube Music,0
+Better Together - YouTube Music,0
+1979 - YouTube Music,0
+Hard to Concentrate - YouTube Music,0
+Impossible chords & tabs by James Arthur @ 911Tabs,0
+goo - Google °Ë»ö,0
+³×ÀÌ¹ö ¸ğ¹ÙÀÏ À¥Å÷ - Google °Ë»ö,0
+³×ÀÌ¹ö À¥Å÷,0
+°ü½ÉÀ¥Å÷ :: ³×ÀÌ¹ö À¥Å÷,0
+ÃÖ±Ù º» À¥Å÷ :: ³×ÀÌ¹ö À¥Å÷,0
+¿Ï°á :: ³×ÀÌ¹ö À¥Å÷,0
+ÀÏ :: ³×ÀÌ¹ö À¥Å÷,0
+½Î¿òµ¶ÇĞ :: ³×ÀÌ¹ö À¥Å÷,0
+99È­ : ³ğÀº ´Ş¶ú¾î¿ä :: ³×ÀÌ¹ö À¥Å÷,0
+ÀÔÇĞ¿ëº´ :: ³×ÀÌ¹ö À¥Å÷,0
+48È­ :: ³×ÀÌ¹ö À¥Å÷,0
+¾àÇÑ¿µ¿õ :: ³×ÀÌ¹ö À¥Å÷,0
+159È­ :: ³×ÀÌ¹ö À¥Å÷,0
+The Man Who Sold The World - YouTube Music,0
+Especially in Michigan - YouTube Music,0
+mysql db º¸±â - Google °Ë»ö,1
+"[mysql] mysql ½ÇÇàÇÏ±â, DB ¸®½ºÆ® º¸±â, DB ¼±ÅÃ, Å×ÀÌºí º¸±â ¸í·É¾î ¼Ò°³ | Lim, see",1
+±î¸ÔÁö¸»ÀÚ!,0
+MySQL µ¥ÀÌÅÍº£ÀÌ½º ¹× Å×ÀÌºí Á¶È¸,1
+"MySQL #1_ Database ¹× Table »ı¼º, È®ÀÎ, Á¦°Å, ¼öÁ¤",1
+mysql workbench Å×ÀÌºí º¸±â - Google °Ë»ö,1
+MySql WorkBench¿¡¼­ Å×ÀÌºíÀÇ ÄÃ·³Á¤º¸ º¸±â,1
+mysql workbench °£´ÜÇÑ Á¶È¸ ¹× Å×ÀÌºí Äõ¸® ÃßÃâ ¹æ¹ı! : ³×ÀÌ¹ö ºí·Î±×,1
+mysql ÇàÃß°¡ - Google °Ë»ö,1
+[MySQL] Å×ÀÌºí Çà Ãß°¡ÇÏ±â INSERT INTO - ÄÚµùÀ» »ïÄ×´Ù.,1
+ÆÄÀÌ½ã mysql ÇàÃß°¡ - Google °Ë»ö,1
+"MySQL µ¥ÀÌÅÍ ´ÜÀÏ Çà, ´ÙÁß Çà Ãß°¡  ÀÏ»ó±â·ÏÁö",1
+ÆÄÀÌ½ã µ¥ÀÌÅÍÇÁ·¹ÀÓ ¸¸µé±â - Google °Ë»ö,1
+[Python] µ¥ÀÌÅÍÇÁ·¹ÀÓ ¸¸µé±â :: pd.DataFrame(),1
+"Python - MySQL µ¥ÀÌÅÍ Ãß°¡, »èÁ¦, ¾÷µ¥ÀÌÆ®",1
+Breakdown - YouTube Music,0
+(5) YouTube Premium - YouTube,0
+(5) YouTube,0
+(5) µ¥ÀÌÅÍ ½ºÅ×ÀÌ¼Ç - YouTube,1
+"(5) [µ¥ÀÌÅÍºĞ¼®] ºĞ½ÄÀÌÀÇ Python Pandas ½Ç¹« µ¥ÀÌÅÍ ºĞ¼® 2Åº (µ¥ÀÌÅÍ ºÒ·¯¿À±â / µ¥ÀÌÅÍ ¿ä¾à È®ÀÎ, °áÃøÄ¡, missing data È®ÀÎ / ÄÃ·³µ¥ÀÌÅÍ ÃßÃâ) - YouTube",1
+"¹ŞÀºÆíÁöÇÔ (5,678) - hyunseunghong98@gmail.com - Gmail",0
+ÀÓ½Ãº¸°üÇÔ (4) - hyunseunghong98@gmail.com - Gmail,0
+https://www.youtube.com/watch?v=S8UufZViyM8,0
+[µ¥ÀÌÅÍºĞ¼®] ºĞ½ÄÀÌÀÇ Python Pandas ½Ç¹« µ¥ÀÌÅÍ ºĞ¼® 3Åº (Çà ÃßÃâÇÏ±â / Á¤·ÄÇÏ±â / ÇÊÅÍ¸µ / ÀúÀå) #Python #ÆÄÀÌ½ã #Pandas - YouTube,1
+(5) [µ¥ÀÌÅÍºĞ¼®] ºĞ½ÄÀÌÀÇ Python Pandas ½Ç¹« µ¥ÀÌÅÍ ºĞ¼® 3Åº (Çà ÃßÃâÇÏ±â / Á¤·ÄÇÏ±â / ÇÊÅÍ¸µ / ÀúÀå) #Python #ÆÄÀÌ½ã #Pandas - YouTube,1
+(5) ÆÄÀÌ½ã ÆÇ´Ù½º·Î È¸»ç ¿¢¼¿µ¥ÀÌÅÍ ÀüÃ³¸® ÇÏ´Â ¹æ¹ı ! 1Åº (Python / Pandas) #Python #ÆÄÀÌ½ã #Pandas - YouTube,1
+(1) Facebook,0
+yahoo stock - Google °Ë»ö,0
+»õ ÅÇ (ÀÀ´ä ¾øÀ½),0
+"Yahoo Finance - Stock Market Live, Quotes, Business & Finance News (ÀÀ´ä ¾øÀ½)",0
+NIO 35.38 -0.25 -0.70% : NIO Inc. - Yahoo Finance,0
+Why Is Nio Stock Dropping Despite Record Deliveries?,0
+ÄÚ·Î³ª ¾Ë¾à - Google °Ë»ö,0
+¸ÓÅ© ÁÖ½Ä - Google °Ë»ö,0
+"¸ÓÅ©, ÁÖ½Ä Àü¸Á, ¿ö·»¹öÇÍ, Å°Æ®·ç´Ù",0
+Å°Æ®·ç´Ù - Google °Ë»ö,0
+"¸é¿ªÇ×¾ÏÁ¦ Å°Æ®·ç´Ù, 4³â¸¸¿¡ 'Æó¾Ï 1Â÷ °ü¹®' Åë°ú - º¸°ÇÀÇ·á¹®È­¸¦ ¼±µµÇÏ´Â µ¥ÀÏ¸®¸Şµğ",0
+ÈŞ¹Ì¶ó - Google °Ë»ö,0
+¾Öºêºñ ÁÖ½Ä - Google °Ë»ö,0
+abbvie stock - Google °Ë»ö,0
+Å°Æ®·ç´Ù ºÎÀÛ¿ë - Google °Ë»ö,0
+ÇÑ°èÁ¡ µå·¯³½ ¸é¿ªÇ×¾ÏÁ¦ Å°Æ®·ç´Ù < Á¦¾à¹ÙÀÌ¿À < Á¦¾à < ±â»çº»¹® - ¸ŞµğÄ®¾÷Àú¹ö,0
+³ëº¸ ³ëµğ½ºÅ© - Google °Ë»ö,0
+³ëº¸ ³ëµğ½ºÅ© ¿ÀÁªÇÈ - Google °Ë»ö,0
+³ëº¸³ëµğ½ºÅ© ¿ÀÁªÇÈ Ç÷´ç¡¤Ã¼Áß °¨¼Ò¿¡ È¿°úÀû - ÀÇ¾à´º½º,0
+XPeng Posts Huge Month for Deliveries. EV Sales in China Remain Hot.,0
+"Novo Nordisk A/S (NVO) Stock Price, News, Quote & History - Yahoo Finance",0
+³ëº¸ ³ëµğ½ºÅ© wntlr - Google °Ë»ö,0
+³ëº¸ ³ëµğ½ºÅ© ÁÖ½Ä - Google °Ë»ö,0
+"Novo Nordisk B A/S (NOVO-B.CO) Stock Price, News, Quote & History - Yahoo Finance",0
+dkk - Google °Ë»ö,0
+ntse - Google °Ë»ö,0
+nyse - Google °Ë»ö,0
+¼î¹Ì´õ¸Ó´Ï10 ²Ê¶Ñ·ì (QDR) 1Â÷¿¹¼± - YouTube,0
+20´ë¿¡ ÀÌ¹Ì 3¸¸Æò ¾ç½ÄÀå ÁÖÀÎÀÌ µÈ ¿©¼º»çÀå´ÔÀÇ »ç¿¬ [TV»ı¹°µµ°¨] - YouTube,0
+´äÀº ±×µéÀÇ °ú°Å¿¡ ÀÖ¾ú´Ù..! ¡¶¿ÀÀÏ³² ½ÃÁ¡¡·¿ÀÂ¡¾î°ÔÀÓ ¶±¹ä Á¶Áö±â½ºÆ÷ÁÖÀÇ - YouTube,0
+NVO 95.88 -0.13 -0.14% : Novo Nordisk A/S - Yahoo Finance,0
+³ª¹« - YouTube,0
+"[MV] Car, the garden(Ä«´õ°¡µç) _ Tree(³ª¹«) - YouTube",0
+Novo Nordisk A/S (NVO) Stock Historical Prices & Data - Yahoo Finance,0
+Á¦ÁÖµµ Ä«Æä : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+trivial round of daily life : ³×ÀÌ¹ö ºí·Î±×,0
+±â¾ï¿¡ ³²Àº Á¦ÁÖµµ Ä«Æä ¸ğÀ½ : ³×ÀÌ¹ö ºí·Î±×,0
+[³ªÀÇ ¾ÆÀú¾¾ OST] Sondia - ¾î¸¥ (Grown Ups) MV - YouTube,0
+Lovely One Story : ³×ÀÌ¹ö ºí·Î±×,0
+»õ·Î¿ü´ø Á¦ÁÖµµ Ä«Æä : ³×ÀÌ¹ö ºí·Î±×,0
+[¹Ì½ºÅÍ ¼Ç»şÀÎ OST Part 1] ¹ÚÈ¿½Å (Park Hyo Shin) - ±× ³¯ (The Day) MV - YouTube,0
+´«ºÎ½Ã°Ô ºû³ª´Â ³¯µé : ³×ÀÌ¹ö ºí·Î±×,0
+ÀÌ»öÀûÀÎ Á¦ÁÖµµ ¾Ö¿ù Ä«Æä ¸ğÀ½ : ³×ÀÌ¹ö ºí·Î±×,0
+https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=Á¦ÁÖµµ+ºê·±Ä¡+Ä«Æä&oquery=Á¦ÁÖµµ+Ä«Æä&tqi=hSmQqwprvN8ssZVMTGRssssstLK-444981,0
+Á¦ÁÖµµ ºê·±Ä¡ Ä«Æä : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+´ç½ÅÀÇ ÀÏ»óÀº ¾È³çÇÑ°¡¿ä? : ³×ÀÌ¹ö ºí·Î±×,0
+Àú·ÅÇÏ°í ÇªÁüÇß´ø Á¦ÁÖµµ ºê·±Ä¡Ä«Æä : ³×ÀÌ¹ö ºí·Î±×,0
+"°æ½´ÀÇ ¸ÀÀÖ´Â ¿©Çà, TravelerHaloNa : ³×ÀÌ¹ö ºí·Î±×",0
+±â¾ï³²Àº Á¦ÁÖµµ ºê·±Ä¡ Ä«Æä ¼Ò°³ : ³×ÀÌ¹ö ºí·Î±×,0
+"¿©ÇàµµÁÁ°í,ÀáµµÁÁ°í : ³×ÀÌ¹ö ºí·Î±×",0
+ÀØÈ÷Áö ¾Ê´Â Á¦ÁÖµµ ºê·±Ä¡Ä«Æä : ³×ÀÌ¹ö ºí·Î±×,0
+"Á¦ÁÖµµ ¾Ö¿ù Ä«Æä ""Ä«ÆäÄÚ·§"" Á¦ÁÖµµ ºê·±Ä¡Ä«Æä : ³×ÀÌ¹ö ºí·Î±×",0
+[¹Ì½ºÅÍ ¼Ç»şÀÎ OST Part 5] ¸á·Î¸Á½º (MeloMance) - ÁÁÀº ³¯ (Good Day) MV - YouTube,0
+Á¦ÁÖµµ ¾Ö¿ù Ä«Æä : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+³×ÀÌ¹ö Áöµµ,0
+°Ë»ö - ³×ÀÌ¹ö Áöµµ,0
+Á¦ÁÖµµ ¾Ö¿ù Ä«Æä : ³×ÀÌ¹ö ÀÌ¹ÌÁö°Ë»ö,0
+³ª¾ó (Naul) - ±â¾ïÀÇ ºóÀÚ¸® (Emptiness in Memory) MV - YouTube,0
+ÄíÆÎ - Google °Ë»ö,0
+ÄíÆÎ! - Äµ ¸¸µé±â,0
+ÄíÆÎ! - ±øÅë Äµ¸¸µé±â,0
+¸¶ÀÌ¼¿ÇÁ¿şµù ¢º½ºµå¸ŞÁ¤ÂûÁ¦ÇÒÀÎ ½ºµå¸Ş°è»ê±â·Î °áÈ¥ÁØºñ!! : ³×ÀÌ¹ö Ä«Æä,0
+Á¦ÁÖµµ ³ë¶ó¹Ù ±×¸®°í ¾Ö¿ù Ä«Æä : ³×ÀÌ¹ö Ä«Æä,0
+¿ÍÇÃ±â°è - Google °Ë»ö,0
+ÄíÆÎ! - ¿ÍÇÃ±â°è,0
+ºê¶ó¿î ¾ÆÀÌµå ¼Ò¿ï (BROWN EYED SOUL) - ³Ê¸¦ (You) MV - YouTube,0
+1¿ùºÎÅÍ 6¿ù±îÁö À±Á¾½Å - YouTube,0
+1¿ùºÎÅÍ 6¿ù±îÁö - YouTube,0
+³ª¿¡°Ô·ÎÀÇ ÃÊ´ë º¹¸é°¡¿Õ ¹«´ë - YouTube,0
+Jo Youjeen (Cherry Filter) & Park Ki Young - Invitation to me | King of masked singer EP.89 - YouTube,0
+ÄíÆÎ! | ¸®Å¢ ¿ÍÇÃ¸ŞÀÌÄ¿,0
+ÄíÆÎ! | ·çÄ« Å©·ÎÇÃ ¿ÍÇÃ »÷µåÀ§Ä¡ ¸ŞÀÌÄ¿ ±â°è ¿ÍÇÃ±â Àü±â ¿ÍÇÃÆÒ,0
+¿ÍÇÃ±â°è Å©·ÎÇÃ - Google °Ë»ö,0
+novavax stock - Google °Ë»ö,0
+error - YouTube,0
+"Moderna Stock, Novavax Slump as Good News on Covid Pill Is Bad News for Vaccines | Barron's",0
+Å©·ÎÇÃ ¸¸µé±â - Google °Ë»ö,0
+Å©·ÎÇÃ ¸¸µé±â/Å©·Î¿Í»ó »ıÁö ¿ÍÇÃ ¸¸µå´Â¹ı : ³×ÀÌ¹ö ºí·Î±×,0
+Å©·Î¿Í»ó »ıÁö - Google °Ë»ö,0
+ÄíÆÎ! - Å©·Î¿Í»ó »ıÁö,0
+"Rainy day (Feat. ASH ISLAND, Skinny Brown) - YouTube",0
+"Novavax, Inc. (NVAX) Income Statement - Yahoo Finance",0
+"NVAX 181.60 -25.71 -12.40% : Novavax, Inc. - Yahoo Finance",0
+¿ÍÇÃ±â°è ¿ä¸® - Google °Ë»ö,0
+°¡Á¤¿ë¿ÍÇÃ±â°è ¾ß¹«Áö°Ô Àß ½á¸Ô´Â ¿ÍÇÃ ·¹½ÃÇÇ! : ³×ÀÌ¹ö ºí·Î±×,0
+¿ÍÇÃ ±â°è·Î ¸¸µå´Â ½Å¹ÚÇÑ ¿ä¸® : ³×ÀÌ¹ö ºí·Î±×,0
+400km (Feat. Kid Milli) (400km (Feat. Kid Milli)) - YouTube,0
+Back In Time (The Moon during the Day X K.will) (½Ã°£À» °Å½½·¯ (³·¿¡ ¶ß´Â ´Ş X... - YouTube,0
+¸¶¶ó ºñºö¹ä ¿ÍÇÃ ·¹½ÃÇÇ :: ¿ÍÇÃ ±â°è·Î ¸¸µå´Â ÀÌ»ö ¹ä¿ä¸®!,0
+If you lovingly call my name (´ÙÁ¤È÷ ³» ÀÌ¸§À» ºÎ¸£¸é) - YouTube,0
+"""ÀÌ·±°Í±îÁö °¡´ÉÇØ?""¡¦¿ÍÇÃ±â°è·Î ¸¸µå´Â À½½Ä 5 | SNSFeed Á¦ÈŞÄÜÅÙÃ÷ Á¦°ø '½Ç½Ã°£ ÇÖÀÌ½´'",0
+¿ÍÇÃ ±â°è¿¡ ¿ÍÇÃ »©°í ´Ù ±¸¿ö¸Ô´Â ÇÑ±¹ÀÎµé º¸¸ç ±ôÂ¦ ³î¶õ ¡®¿ÍÇÃ±¹¡¯ º§±â¿¡ÀÎ | ¿ä¸® | ÀÀ¿ë·Â | ¿¡Æ÷Å©Å¸ÀÓ½º,0
+¼¼¿ùÀÌ °¡¸é As time goes by - YouTube,0
+https://www.google.com/search?q=¿ÍÇÃ±â°è°í±â&tbm=isch&ved=2ahUKEwiPydju9KvzAhWHA6YKHWaDDgcQ2-cCegQIABAA&oq=¿ÍÇÃ±â°è°í±â&gs_lcp=CgNpbWcQAzoECAAQGFDL6QxY5-0MYITxDGgBcAB4AIABbYgBqwOSAQMwLjSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=X2lYYc-dAYeHmAXmhro4&bih=929&biw=841&hl=ko,0
+¿ÍÇÃ±â°è°í±â - Google °Ë»ö,0
+»ï°ã»ìÀ» ¿ÍÇÃ±â°è¿¡ ÂîºÎ½ÃÄ×´õ´Ï.... - YouTube,0
+¹öÁî (BUZZ) - »ç¶ûÇÏÁö ¾ÊÀº °ÍÃ³·³ (The Love) MV - YouTube,0
+Æò»ı ½á¸Ô´Â °öÃ¢ ¸Ô´Â ¹æ¹ı - YouTube,0
+https://www.google.com/search?q=¿ÍÇÃ±â°è&tbm=isch&ved=2ahUKEwjQn63s9qvzAhWlKaYKHZSiDwcQ2-cCegQIABAA&oq=¿ÍÇÃ±â°è&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQ-xJY-xJgyhhoAHAAeACAAeQBiAHkAZIBAzItMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=cmtYYdCePKXTmAWUxb44&bih=929&biw=841&hl=ko,0
+Monologue - YouTube,0
+Timeless - YouTube,0
+"INO 6.70 -0.46 -6.42% : Inovio Pharmaceuticals, Inc. - Yahoo Finance",0
+inovio - Google °Ë»ö,0
+Inovio Pharmaceuticals - Google °Ë»ö,0
+Inovio Pharmaceuticals : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+ÀÌ³ë ºñ¿À(Inovio Pharmaceuticals) ÁÖ½Ä - Investing.com,0
+Secret Garden (ºñ¹ĞÀÇ È­¿ø) - YouTube,0
+TOGGLE Copilot,0
+°øºÎ - Google °Ë»ö,1
+www.naver.com - Google °Ë»ö,0
+kocw : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,1
+´ëÇĞ°ø°³°­ÀÇ - KOCW,1
+°íÅ¬œ¤¤ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+°íÅ¬¸° : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+Â¥·çÀÇ ÀÌ°ÍÀú°Í ¸®ºä : ³×ÀÌ¹ö ºí·Î±×,0
+°íÅ¬¸° ´Ù¿î·Îµå ¹× È°¿ë¹ı (ft. ÄÄÇ»ÅÍ »ç.. : ³×ÀÌ¹öºí·Î±×,0
+À¯Æ©ºê : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+±â³ä½Ä¿¡¼­ ¿µÈ­¸¦ Âï³×?!..¡®ÀÛÀü¸í ÇÇ½º¸ŞÀÌÄ¿¡¯ ¼¼°è 6À§ ±¹¹æ·Â Å¬¶ó¾² - YouTube,0
+"[ENG SUB] ¿ÀÂ¡¾î °ÔÀÓ ÄÚ¸àÅÍ¸®, ÂğÀÌ´Ù!! ¿À°× ¿¬Ãâ, ¹Ì¼ú, ¿¬±âÀÇ ºñ¹Ğ Æø·Î!! Squid Game Commentary | ¿ÀÂ¡¾î °ÔÀÓ | ³İÇÃ¸¯½º - YouTube",0
+¹Ì±¹ 1µî¼® ±âÂ÷ ¸®ºä ¡¼¾Æ¸Ş¸®Ä«12¡½ - YouTube,0
+"[4K] ÀÌÇÏÀÌ(LeeHi)ÀÇ Å³¸µº¸ÀÌ½º-Rose, È¦·Î, MY STAR, ´©±¸ ¾ø¼Ò, AUTOMATIC REMIX, ¸Ó¸®¾î±ú¹«¸­¹ß, »¡°£ ¸³½ºÆ½ ¤Ó µù°í¹ÂÁ÷ - YouTube",0
+"ÀÌÁ¦´Â ÇÔ²²ÇÒ ¼ö ¾ø´Â ´Ù¼¸ ³²ÀÚµéÀÇ ¸¶Áö¸· ±¹³» ¿©Çà±â ¡²feat. ºü´Ïº¸Æ², °ûÆ©ºê, ¿©Çà°¡Á¦ÀÌ, °è°îÀº°³°ñ°³°ñ¡³ - YouTube",0
+/¹ö³³¤¾Åø - YouTube,0
+ºü´Ïº¸Æ² - YouTube,0
+ºü´Ïº¸Æ² Pani Bottle - YouTube,0
+kkanbu - YouTube,0
+°Å»ç¸ğ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+"[°Å»ç¸ğ] °ÅÁ¦µµ ´ëÇ¥ Ä«Æä - ¿©Çà,Ææ¼Ç,¸ÀÁı,³¬½Ã,Åë¿µ,ºÎµ¿»ê : ³×ÀÌ¹ö Ä«Æä",0
+"¡Ü°ÅÁ¦µµ ±¸ÀÎ/±¸Á÷,[°Å»ç¸ğ] °ÅÁ¦µµ ´ëÇ¥ Ä«Æä - ¿©Çà,Ææ¼Ç,¸ÀÁı,³¬½Ã,Åë¿µ,ºÎµ¿»ê : ³×ÀÌ¹ö Ä«Æä",0
+ÆíÀÇÁ¡¾ß°£¾Ë¹Ù±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+¾Ë¹Ù»ı ±¸ÀÎÇØ¿ä : ³×ÀÌ¹ö Ä«Æä,0
+(¿©) ÁÖ¸»(±İ.Åä) ¾Ë¹Ù±¸ÇØ¿ä(5:30~9:30)(¼ö¿ù) : ³×ÀÌ¹ö Ä«Æä,0
+¾ÆÁÖµ¿ ¸ÆÁÖÁı ¾Ë¹Ù±¸ÇÔ : ³×ÀÌ¹ö Ä«Æä,0
+Áß°îµ¿ ¾Æ·¹³ªbar¿¡¼­ ¾Ë¹Ù±¸ÇØ¿ä : ³×ÀÌ¹ö Ä«Æä,0
+"°íÇöµ¿(Áß°îµ¿) ÁÖ¸»¾Ë¹Ù ±¸ÀÎ(±İ,Åä,ÀÏ) : ³×ÀÌ¹ö Ä«Æä",0
+¿ï¹öÇÜÆ° »ç¿ì½ºÇÜÆ° : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+¿ï¹öÇÜÆ° ´ºÄ³½½ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+»ï¼º °ÇÈ­ ¾Ë¹Ù10¸í ÃÊº¸13Àå ´çÀÏÁö±Ş 1ÀÎ½ÇÁ¦°ø : ³×ÀÌ¹ö Ä«Æä,0
+¾Ë¹Ù±¸ÇØ¿ä : ³×ÀÌ¹ö Ä«Æä,0
+ ~ ´Ü±â¾Ë¹Ù 2ºĞ ¸ğÁıÇÕ´Ï´Ù[±¸ÀÎ] : ³×ÀÌ¹ö Ä«Æä,0
+œ¼œ¼µ·±î½º ´Ü±â¾Ë¹Ù ±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+05³â»ıÀÌ ¾Ë¹Ù ÇÒ¸¸ÇÑ ÀÚ¸® ³²¾ÆÀÖÀ»±î¿ä? : ³×ÀÌ¹ö Ä«Æä,0
+¿ÁÆ÷µ¿ °íµîÇĞ»ı³²ÀÚÁÖ¹æ¾Ë¹Ù ÇÏ½ÇºĞ ¸ğÁıÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+°íÇö) ÁÖ¹æº¸Á¶ ³²ÀÚ¾Ë¹Ù Ã¤¿ëÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+ÁÖ¸»¾Ë¹Ù ±¸Á÷ : ³×ÀÌ¹ö Ä«Æä,0
+1Á¾¸éÇã¼ÒÁöÀÚ : ³×ÀÌ¹ö Ä«Æä,0
+Àå¸ñ³ó¼Ò : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+Ä«¿îÅÍ ¾Ë¹Ù±¸ÇÔ : ³×ÀÌ¹ö Ä«Æä,0
+²Ùºê¶ó²¿ ½¡ºÒµÎ¸¶¸®Ä¡Å²¿¡¼­ ¾Ë¹Ù¸¦ ¸ğÁıÇÕ´Ï´Ù!¤¾ : ³×ÀÌ¹ö Ä«Æä,0
+°íÇö Èò°í·¡º»Á¡ °°ÀÌÀÏÇÒºĞ ±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+»óµ¿¼ÒÀç Å°ÁîÄ«Æä ÁÖ¸»¾Ë¹Ù ±¸ÇØ¿ä : ³×ÀÌ¹ö Ä«Æä,0
+º£½ºÆ®´ë¸®¿îÀü ³²/¿© ±â»ç¸ğÁı : ³×ÀÌ¹ö Ä«Æä,0
+ÆíÀÇÁ¡ ÁÖ¸»¾Ë¹Ù ±¸ÇÔ : ³×ÀÌ¹ö Ä«Æä,0
+ÇÇÀÚ¾Ëº¼·Î °ÅÁ¦°íÇöÁ¡ ¹è´Ş¾Ë¹Ù ¸ğÁıÇÕ´Ï´Ù~ : ³×ÀÌ¹ö Ä«Æä,0
+¾Ë¹Ù±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+¿ìÃ¼±¹ ÇÏÂ÷ ¾Ë¹Ù±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+ÀÏ¿äÀÏ ¾Ë¹Ù±¸ÀÎ : ³×ÀÌ¹ö Ä«Æä,0
+Ä¡Å²Áı ¾Ë¹Ù ±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+24»ì ³²ÀÚ ¾Ë¹Ù ±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+"ÇÑ¼º¼¼Å¹ / ³²¼º¡Ú´çÀÏ 9/27~9/28 (¿ù, È­) ´Ü±â¾Ë¹Ù ±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä",0
+ÆÒ¼Ç Ã»¼Ò¾Ë¹ÙºĞ ±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+°íÇö] pc¹æ ÀÏ¿äÀÏ ¿©ÀÚºĞ ¾Æ¸£¹ÙÀÌÆ® ±¸ÇÕ´Ï´Ù! : ³×ÀÌ¹ö Ä«Æä,0
+È­¸ñ´ë¸®¿îÀü(0556882080)³²¿© ±â»ç´Ô ¸ğÁı : ³×ÀÌ¹ö Ä«Æä,0
+Ä¥Ãµµµ ·¹ÀÎº¸¿ì Å°Áî Ç®ºô¶ó Ã»¼ÒÆÀ '¿©'¾Ë¹Ù ±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+¼ö¿ùÄ¡Å²¾Ë¹Ù±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+ ºÀ±¸ºñ¾î ÀåÆòÁ¡ ¾Ë¸£¹ÙÀÌÆ® ±¸ÇÕ´Ï´Ù.  : ³×ÀÌ¹ö Ä«Æä,0
+¿ÁÆ÷µ¿ ÇĞ»ı ÁÖ¹æ¾Ë¹Ù ÇÏ½ÇºĞ : ³×ÀÌ¹ö Ä«Æä,0
+10¿ù 4ÀÏ ºÎÅÍ ÀÏ°¡´ÉÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+´Ü±â ¾Ë¹Ù ±¸ÇØ¿ä !!! : ³×ÀÌ¹ö Ä«Æä,0
+¹®µ¿ GS25 ÁÖ¸» ¾ß°£ ¾Ë¹Ù±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+°íÇö ½ºÅ©¸°°ñÇÁ ¾ß°£¾Ë¹Ù±¸ÇÕ´Ï´Ù. : ³×ÀÌ¹ö Ä«Æä,0
+¼ö¿ùµ¿ ¸ğ´ø Áß½Ä´ç µµ¸¶¿¡¼­ ¾Ë¹Ù¸¦ ±¸ÇØ¿ä~ : ³×ÀÌ¹ö Ä«Æä,0
+"Á¶°ø, ´Ü±â ¾Ë¹Ù ¸ğÁı (Áï½Ã ÀÔ»ç °¡´É) : ³×ÀÌ¹ö Ä«Æä",0
+[±¸ÀÎ] ½Ã±Ş35000¿ø/³ë·¡ÇÏ´Â Å©·¹¿ë ¹æ¹®¿À°¨³îÀÌ±³»çÃ¤¿ë(À¯¾ÆÀ½¾Ç&¹Ì¼ú) : ³×ÀÌ¹ö Ä«Æä,0
+Ææ¼ÇÃ»¼ÒÁ÷¿ø : ³×ÀÌ¹ö Ä«Æä,0
+Á¤Á÷¿øÀÌ³ª ¾Ë¹Ù¿øÇÕ´Ï´Ù. : ³×ÀÌ¹ö Ä«Æä,0
+[±¸ÀÎ]¾ÆÁÖµ¿ ÁÖ¹æ Á÷¿ø ¸ğÁı ÃÊº¸µµ°¡´É : ³×ÀÌ¹ö Ä«Æä,0
+"¿µ¾î °ú¿Ü (³»½Å, ¼ö´É, ¸ğÀÇ°í»ç, È¸È­, ¿µ¾î¶óÀÌÆÃ µî) ÇÕ´Ï´Ù! : ³×ÀÌ¹ö Ä«Æä",0
+¸¶ÇÏ´ë¸®¿îÀü¿¡¼­ ±â»ç´Ô ´ë¸ğÁı : ³×ÀÌ¹ö Ä«Æä,0
+cu °íÇö ´º±×·£µåÁ¡ ½ºÅÂÇÁ ±¸ÇØº¾´Ï´Ù. : ³×ÀÌ¹ö Ä«Æä,0
+Áß°îµ¿ ¿Àº¹Åë´ß¿¡¼­ ³²ÀÚ Á÷¿ø ±¸ÇÕ´Ï´Ù! : ³×ÀÌ¹ö Ä«Æä,0
+±¸ÀÎ : ³×ÀÌ¹ö Ä«Æä,0
+¸¶»çÁö 20´ëÀÌ»ó ¿©¼ººĞ ¸ğÁıÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+¡Ù¸¶»çÁö 20´ëÀÌ»ó ¿©¼ººĞ ±¸ÇÕ´Ï´Ù¡Ù : ³×ÀÌ¹ö Ä«Æä,0
+[±¸ÀÎ] ¡á »ï¼ºÁß°ø¾÷ LNG È­¹°Ã¢ (±ú±ßÇÏ°í ÀÛ¾÷È¯°æ ÁÁÀ½) ¡á : ³×ÀÌ¹ö Ä«Æä,0
+³²ÀÚÁ÷¿ø±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+~´ë¸®¿îÀü ±â»ç´Ô ¸ğÁı~ : ³×ÀÌ¹ö Ä«Æä,0
+4³âÂ÷ÀÌÇÏ Ä¡°úÀ§»ı»ç ±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+¶óÀÌÄÜ ¸®¾È¿Î½Ì - ¹«·á ¿Î½Ì ¸ğµ¨ ¸ğÁı ¾È³» : ³×ÀÌ¹ö Ä«Æä,0
+¿ÀÀü±Ù¹«!!¹è´Ş±â»ç±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+¿ÁÆ÷ ÇĞ»ı ÁÖ¹æÆÄÆ®Å¸ÀÓ ÇÏ½ÇºĞ : ³×ÀÌ¹ö Ä«Æä,0
+¡®Äí¸¶Å°Ä£¡¯ °ÅÁ¦ µğÅ¥ºêÁ¡¿¡¼­ ÁÖ¹æ ÆÄÆ®Å¸ÀÌ¸Ó ±¸ÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä,0
+"ÄÚ·Î³ª19 ÀÀ¿øÀÇ¹æ,[°Å»ç¸ğ] °ÅÁ¦µµ ´ëÇ¥ Ä«Æä - ¿©Çà,Ææ¼Ç,¸ÀÁı,³¬½Ã,Åë¿µ,ºÎµ¿»ê : ³×ÀÌ¹ö Ä«Æä",0
+"Áß°í¹°Ç° ÆË´Ï´Ù.,[°Å»ç¸ğ] °ÅÁ¦µµ ´ëÇ¥ Ä«Æä - ¿©Çà,Ææ¼Ç,¸ÀÁı,³¬½Ã,Åë¿µ,ºÎµ¿»ê : ³×ÀÌ¹ö Ä«Æä",0
+"20´ëµéÀÇ °ø°£,[°Å»ç¸ğ] °ÅÁ¦µµ ´ëÇ¥ Ä«Æä - ¿©Çà,Ææ¼Ç,¸ÀÁı,³¬½Ã,Åë¿µ,ºÎµ¿»ê : ³×ÀÌ¹ö Ä«Æä",0
+"ÁÖºÎ´Ô,ÅõÀâ,¾Ë¹Ù ´ë¸®±â»ç´Ô ¸ğÁı : ³×ÀÌ¹ö Ä«Æä",0
+º¸ÀÌ½º³ë·¡Å¸¿î Á÷¿ø ±¸ÇÕ´Ï´Ù. : ³×ÀÌ¹ö Ä«Æä,0
+"¿ÁÆ÷ ½Å±Ô¿ÀÇÂ Á¶°³±¸ÀÌ,È½Áı(»óÈ£:¼ö»ê½ÃÀå) ¿ÀÇÂ¸â¹ö Á¤Á÷¿ø ±¸ÀÎÇÕ´Ï´Ù : ³×ÀÌ¹ö Ä«Æä",0
+°í±êÁı È¦¼­ºù1¸í. ÁÖ¹æ½ÇÀå &À°ºÎ±¸ÇÔ : ³×ÀÌ¹ö Ä«Æä,0
+¤§ - Google °Ë»ö,0
+https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=¹İ½º%5C,0
+¹İ½º\ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+¹İ½º Ã¼Å©º¸µå : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+¹İ½º Ã¼Ä¿º¸µå : ³×ÀÌ¹ö ¼îÇÎ,0
+Ã¼Å©º¸µå - YouTube,0
+Ã¼Å©º¸µå ½Å¹ß - YouTube,0
+¸¶Â¡°¡ Æ¼ºêÀÌ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+¸¶Â¡°¡ Æ¼ºñ - Google °Ë»ö,0
+"¸¶Â¡°¡Æ¼ºñ - ½ºÆ÷Ã÷Áß°è,MLBÁß°è,ÇØ¿Ü½ºÆ÷Ã÷Áß°è,NBAÁß°è,ÇÁ¸®¹Ì¾î¸®±×Áß°è,ÇØ¿ÜÃà±¸Áß°è,EPLÁß°è,¸ŞÀÌÀú¸®±×Áß°è,NHLÁß°è,¶óÀÌºê½ºÄÚ¾î,¶óÀÌºê½ºÄÚ¾î»çÀÌÆ®, ½Ç½Ã°£tvÁß°è, Ä¿¹Â´ÏÆ¼",0
+¿ï¹öÇÜÇÁÅÏ ¿ø´õ·¯½º FC VS ´ºÄ³½½ À¯³ªÀÌÆ¼µå FC _°ñÀÎ¸í´Ü_°æ±âÇöÀåÁ¤º¸_°ñÀÎ½Ã°£_·¹µåÄ«µå_¿»·ÎÄ«µå_¼±¼ö±³Ã¼_ÇöÀåÅë°è_Ã¹ Å±¿ÀÇÁ_Ã¹ °ñÀÎ_7M ½ºÆ÷Ã÷,0
+ÄğÆ¼ºñ - Google °Ë»ö,0
+Ã¼Å©º¸µå : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+Ã¼Å©º¸µå : ³×ÀÌ¹ö VIEW°Ë»ö,0
+Ã¼Å©º¸µå : ³×ÀÌ¹ö ÀÌ¹ÌÁö°Ë»ö,0
+"½ºÆ÷Ã÷Áß°èÄğÆ¼ºñ - ½ºÆ÷Ã÷Áß°è,ºü¸¥½ºÆ÷Ã÷Áß°è,ÄğÆ¼ºñ,¹«·á½ºÆ÷Ã÷Áß°è,ÇØ¿ÜÃà±¸Áß°è»çÀÌÆ®,¸ŞÀÌÀú¸®±×Áß°è,¾ß±¸Áß°è,³ó±¸Áß°è,Ãà±¸Áß°è,ÇØ¿Ü½ºÆ÷Ã÷Áß°è,ÇÁ¸®¹Ì¾î¸®±×Áß°è,mlbÁß°è,ÀÏº»¾ß±¸Áß°è,¿ùµåÄÅÁß°è,´À¹ÙÁß°è,nbaÁß°è,ÇÏÅ°Áß°è,¾ÆÀÌ½ºÇÏÅ°Áß°è,nhlÁß°è,¹Ì½ÄÃà±¸Áß°è,¹è±¸Áß°è,½ºÇÁÃ÷¶óÀÌºêÁß°è,½ºÆ÷Ã÷Áß°è»çÀÌÆ®,¹«·á½ºÆ÷Ã÷Áß°è,½Ç½Ã°£½ºÆ÷Ã÷Áß°è»çÀÌÆ®,eplÁß°è,npbÁß°è,¿ÃÀ©Æ¼ºñ,Ã¨ÇÇ¾ğ½º¸®±×Áß°è,Ã¨½ºÁß°è,¸®±×¾ÓÁß°è,nflÁß°è,ÇÁ¶ó¸Ş¶ó¸®°¡Áß°è,ºĞµ¥½º¸®°¡Áß°è,¿¡¸®µğºñÁö¿¡Áß°è,¹Ì±¹¾ß±¸Áß°è,wnbaÁß°è,¹Ì±¹³ó±¸Áß°è,npbÁß°è,¿Ã¸²ÇÈÁß°è,¹«·áÁß°è,kboÁß°è,ÇÁ·Î¾ß±¸Áß°è",0
+https://search.naver.com/search.naver?where=kin&sm=tab_jum&query=Ã¼Å©º¸µå,0
+Ã¼Å©º¸µå : ³×ÀÌ¹ö Áö½ÄiN°Ë»ö,0
+Ã¼Ä¿º¸µå : ³×ÀÌ¹ö Áö½ÄiN°Ë»ö,0
+¹İ½º Ã¼Ä¿º¸µå ÇÃ·§Æû »çÀÌÁî : Áö½ÄiN,0
+Ã¼Ä¿º¸µå ¿äÁò¿¡µµ ½Å³ª¿ä : ³×ÀÌ¹ö Áö½ÄiN°Ë»ö,0
+Ã¼Ä¿º¸µå ¿äÁò¿¡µµ ½Å³ª¿ä : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+·Õ½½¸®ºê - YouTube,0
+https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=¾ÆÀÌÆù+13,0
+¾ÆÀÌÆù 13 : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+¼­ÇÇ½º °ø½Ä »ç¿ëÀÚ ¸ğÀÓ : ³×ÀÌ¹ö Ä«Æä,0
+¾ÆÀÌÆù13 »çÀü¿¹¾à ½Î°ÔÇß³×¿ä : ³×ÀÌ¹ö Ä«Æä,0
+¹ÙºñÆù : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+Æù ½Î°Ô ÆÄ´Â »çÀÌÆ®µé Áú¹® ¹ÙºñÆù °°Àº°Å : Áö½ÄiN,0
+¹ÙºñÆù - ¿À´ÃÀÇ Æ¯°¡ ½ÃÀÛ!,0
+Apple ¾ÆÀÌÆù 13 256GB [ÀÚ±ŞÁ¦] : ³×ÀÌ¹ö ¼îÇÎ,0
+Apple ¾ÆÀÌÆù 13 ÇÁ·Î 128GB [ÀÚ±ŞÁ¦] : ³×ÀÌ¹ö ¼îÇÎ,0
+[3Â÷¿¹¾à] Apple ¾ÆÀÌÆù 13 ÇÁ·Î ÀÚ±ŞÁ¦ 128GB - ±×·¡ÆÄÀÌÆ® (MLV93KH/A) : ¾ÖÇÃ °ø½Ä ºê·£µå½ºÅä¾î,0
+¾ÖÇÃ ½ºÅä¾î : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+Apple (´ëÇÑ¹Î±¹),0
+iPhone 13 Pro ¹× iPhone 13 Pro Max ±¸ÀÔÇÏ±â - Apple (KR),0
+iPhone13Pro128GB ½Ã¿¡¶ó ºí·ç - Apple (KR),0
+https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=»ï¼º+°¶·°½Ã+s10&oquery=¾ÖÇÃ+½ºÅä¾î&tqi=hSmVesprvhGssLAYauNssssssho-067185,0
+»ï¼º °¶·°½Ã s10 : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+»ï¼º °¶·°½Ã s10 Å©±â : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+»ï¼ºÀüÀÚ »ï¼º °¶·°½ÃS10 5G 256GB (SKT) : ³×ÀÌ¹ö ¼îÇÎ,0
+¾ÆÀÌÆù13 - YouTube,0
+ITSubÀÕ¼· - YouTube,0
+¾îÁ¬¹ã ´Ùµé ÄíÆÎ°í½Ã ¼º°ø ÇÏ¼Ì³ª¿ä..?? ÈçÇÑ ITÀ¯Æ©¹öÀÇ ¾ÆÀÌÆù13 ±¸¸Å µµÀü±â¤Ó¼ö°­½ÅÃ»º¸´Ù ºı¼¼³×... - YouTube,0
+ÄíÆÎ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+ÄíÆÎ! - ¾ÆÀÌÆù 13,0
+ÄíÆÎ! | Apple ¾ÆÀÌÆù 13 ÀÚ±ŞÁ¦,0
+·Î±×ÀÎ,0
+ÄíÆÎ! - ¾ÆÀÌÆù 13 pro »çÀü ¿¹¾à,0
+¿ôÀ½¹ÚÀç - YouTube,0
+°áÈ¥ÇØ´Ş¶ó´Â ¸»À» µéÀº ³ëÁ¦¹İÀÀ noze insta - YouTube,0
+Áö¿Á | °ø°³ÀÏ ¹ßÇ¥ | ³İÇÃ¸¯½º - YouTube,0
+±ÔÇö ¸»½Ç¼ö ´ëÂü»ç - YouTube,0
+[¿ÀÂ¡¾î°ÔÀÓ] ¼±¹°À» Çß¾î ¿µ¾î´õºù - YouTube,0
+   - YouTube,0
+¹Î°æÈÆ »ïÇà½Ã - YouTube,0
+[¿ÀÂ¡¾î°ÔÀÓ] ¼±¹°À» Çß¾î - YouTube,0
+³İÇÃ¸¯½º¿¡¼­ ²À ºÁ¾ßÇÏ´Â ·¹Àüµå ÀüÀïµå¶ó¸¶ 1À§ - YouTube,0
+¿ÀÂ¡¾î°ÔÀÓ °­»õº® ºĞÀåÇÏ´Â Á¤È£¿¬ - YouTube,0
+(302) YouTube Premium - YouTube,0
+(302) ±¸µ¶ - YouTube,0
+https://www.youtube.com/feed/subscriptions,0
+±¸µ¶ - YouTube,0
+(302) ÃÖÅÂ¼º 1TV - YouTube,0
+(302) [ÀÚ¸·ver] 12°­ °í·Á(¿Ü±³) £üÇÑ±¹»ç´É·Â°ËÁ¤½ÃÇè ½ÉÈ­ - YouTube,1
+(302) ÀÌ·± °Í Á» ½ÃÅ°Áö¸¶¼¼¿ä ¤Ñ¤Ñ - YouTube,0
+(302) YouTube,0
+(302) Å×¶ó½º È­´öÇÇÀÚ ÆÄÆ¼ - YouTube,0
+dyska - Google °Ë»ö,0
+¿ä³² - Google °Ë»ö,0
+Ãë¹Ì·Î ¿ä¸®ÇÏ´Â ³²ÀÚ-¿ä³²TV - ³ª¹«À§Å°,0
+Á¦ÀÌÁ¦ÀÌ(À¯Æ©¹ö) - ³ª¹«À§Å°,0
+ÆòÅÃ ÀÓ¾¾ - ³ª¹«À§Å°,0
+1.6kgÂ¥¸® ¾ó±¼¸¸ÇÑ ÃÊ´ëÇü °í±â! 'Åä¸¶È£Å© ½ºÅ×ÀÌÅ©'!![Á¦ÀÌÁ¦ÀÌ] ·ç¸®À¥ 'Ãë¹Ì·Î ¿ä¸®ÇÏ´Â ³²ÀÚ'ÀÇ ¿ä¸® ÄÃ·º¼Ç Ep.1 - YouTube,0
+(302) 1.6kgÂ¥¸® ¾ó±¼¸¸ÇÑ ÃÊ´ëÇü °í±â! 'Åä¸¶È£Å© ½ºÅ×ÀÌÅ©'!![Á¦ÀÌÁ¦ÀÌ] ·ç¸®À¥ 'Ãë¹Ì·Î ¿ä¸®ÇÏ´Â ³²ÀÚ'ÀÇ ¿ä¸® ÄÃ·º¼Ç Ep.1 - YouTube,0
+Ãë¹Ì·Î ¿ä¸®ÇÏ´Â ³²ÀÚ°¡ ¹«·Á ´Ù¼¸¸í. feat. ÃÊ¹äµµÀü - YouTube,0
+(302) Ãë¹Ì·Î ¿ä¸®ÇÏ´Â ³²ÀÚ°¡ ¹«·Á ´Ù¼¸¸í. feat. ÃÊ¹äµµÀü - YouTube,0
+(302) ¹ÙÁúÆä½ºÅä ÆÄ½ºÅ¸ - YouTube,0
+(302) ¹ÙÁúÆä½ºÅä ÆÄ½ºÅ¸¸¦ ÀüÁ÷ È£ÅÚ½¦ÇÁ¿¡°Ô ¹è¿öºÁ¿ä. Àü°İ °ø°³!! | Make a basil pesto pasta - YouTube,0
+"(302) ¿øÆÒ ¹ÙÁúÆä½ºÅä ÆÄ½ºÅ¸, ¹ÙÁúÆä½ºÅä ½ºÆÄ°ÔÆ¼, ¹ÙÁúÆä½ºÅä, °£Æí¿ä¸®, ÀÚÃë¿ä¸®, ¸Ô¹æ, Basil Pesto Pasta, #11 - YouTube",0
+(302) ÇÎ°ÅÇªµå - YouTube,0
+(302) ºÎ·ç½ºÄÉÅ¸ - YouTube,0
+(302) ÆÄÆ¼¿¡ ¾î¿ï¸®´Â ÇÎ°ÅÇªµå! Åä¸¶Åä ºê·ç½ºÄÉÅ¸ : Tomato Bruschetta [¾Æ³»ÀÇ ½ÄÅ¹] - YouTube,0
+(302) °í±â³²ÀÚ - YouTube,0
+(302) À°½Ä¸Ç - YouTube,0
+(302) À°½Ä¸Ç YOOXICMAN - YouTube,0
+(302) À°½Ä º£Æ®³² ½Ò±¹¼ö : °í±â ¾Æ·¡ ¸é ÀÖ¾î¿ä (Vietnamese Ph) - YouTube,0
+(302) Àá½Ç ¸ÀÁı - YouTube,0
+(302) ´©±¼ µ¥·Á°¡µµ ¸¸Á·ÇÏ´Â Àá½Ç ¸ÀÁı 4°÷ ¼Ò°³ÇÕ´Ï´Ù! - YouTube,0
+Àá½Ç Ä¡¸¶¿À - Google °Ë»ö,0
+https://blog.naver.com/PostView.nhn?blogId=babyplus&logNo=222053261963,0
+Àá½Ç Àå¹Ì»ó°¡ ½Å¹ÚÇÑ ¸ÀÁı Ä¡¸¶¿À ¹ß°ß : ³×ÀÌ¹ö ºí·Î±×,0
+Ä¡¸¶¿À : ³×ÀÌ¹ö,0
+"(302) ¼Û¸®´Ü±æ¸ÀÁı 2Åº ! TOP15 ³ª¸¸ ¾Ë°í ½ÍÀº ·¹½ºÅä¶û, ¼úÁı, Àú·ÅÇÑ Àá½Ç ¸ÀÁı - YouTube",0
+(302) Æò³»µ¿ ¸ÀÁı - YouTube,0
+"(302) [±ºÀÚ,Æò³»È£Æò] »ıÈ°ÀÇ ´ŞÀÎ660È¸ ±ºÀÚ Âğ¸ÀÁı!! (±×¸®°í ¿Ö ³ª´Â ¾îÂ°¼­ ÀÌ´ÙÁöµµ Ä¿ÇÃµé¿¡°Ô ÀÎ±â°¡ ¸¹Àº °ÍÀÎ°¡??(-_-)....) - YouTube",0
+dldldi - Google °Ë»ö,0
+ÀÌÀÌ¾ß - Google °Ë»ö,0
+(302) ¿©±â°¡ ³²¾çÁÖ ÁøÁ¤ ¸ÀÁı ¸Â³ª¿ä?? ½º½ÃÄí¸ğÀÇ ·±Ä¡ ¿À¸¶Ä«¼¼ ÈÄ±â_ - YouTube,0
+tmtl znah - Google °Ë»ö,0
+½º½ÃÄí¸ğ - Google °Ë»ö,0
+¸ŞÀÎ | ½º½ÃÄí¸ğ,0
+¿À½Ã´Â±æ | ½º½ÃÄí¸ğ,0
+(302) ³²¾çÁÖ µ¥ÀÌÆ® | Æò³»È£Æò ¿¥ºñ¾ğ½º | °ø¸ª¿ì°öÃ¢ | º°³» Åõ´Ù¸® - YouTube,0
+"(302) ´ç½ÅÀÌ ÀÌ °÷¿¡ ÅõÀÚÇÏ¸é 2¾ï ÀÌ»ó ¹ú ¼ö ÀÖ´Â ÀÌÀ¯(GTX B, Àç°ÇÃà¾ÆÆÄÆ®:³²¾çÁÖ Æò³»È£Æò ¾ÆÆÄÆ®) - YouTube",0
+³²¾ç¾ÆÆÄÆ® - Google °Ë»ö,0
+"È£Æòµ¿ ³²¾ç'ÀÇ ½Ç°Å·¡°¡, ½Ã¼¼, ¸Å¹°, ÁÖº¯Á¤º¸ | ¾ÆÆÄÆ®´Â È£°»³ë³ë",0
+È£Æòµ¿ ³²¾ç'ÀÇ ÀÌ¾ß±â °Ë»ö | ¾ÆÆÄÆ®´Â È£°»³ë³ë,0
+(302) Æò³»È£Æò ¸ÀÁı - YouTube,0
+"(302) ¸ÀÁı ¸¹Àº È£Æòµ¿, ´Ãº¸¸®½Ä´ç ¸Ô¹æ ,Mukbang eating show, ãİªÙÛ¯ğ¹¡¢«°«ë«á - YouTube",0
+(302) Æ÷ºñ¿£Æ® - YouTube,0
+(302) Æ÷ºñ¿£ - YouTube,0
+(302) ÇÖµµ±× - YouTube,0
+(302) ÇÖµµ±×TV - YouTube,0
+(302) ÈÆ³² ÇÇµğµé°ú ÀÏÇÒ ¼ö ÀÖ´Â ÀıÈ£ÀÇ ±âÈ¸ - YouTube,0
+(302) ÇÖµµ±× ½ºÆ©µğ¿À [ HOTDOG STUDIO ] - YouTube,0
+(302) ¸ÅÀÏÁ¦È÷ - YouTube,0
+(302) ³²Ä£ÇÑÅ× ¹é½Å ¸Â°í ¾ÆÇÂ Ã´ÇØ¼­ ¿øÇÏ´Â °Å ´Ù ÇØ´Ş¶ó ÇØºÃ¾î¿ä ¤»¤»¤»¤» Çàº¹Çß´ø ³²Ä£°úÀÇ 1¹Ú 2ÀÏ È£Ä²½º¢¾ - YouTube,0
+Æò³»µ¿ Æò³»1±¸¿ªÀç°ÇÃà'ÀÇ ÀÌ¾ß±â °Ë»ö | ¾ÆÆÄÆ®´Â È£°»³ë³ë,0
+Æò³»µ¿ Æò³»¸¶À»»ó·Ïµ¥½Ã¾Ó'ÀÇ ÀÌ¾ß±â °Ë»ö | ¾ÆÆÄÆ®´Â È£°»³ë³ë,0
+Æò³»µ¿ ÁøÁÖ2Â÷'ÀÇ ÀÌ¾ß±â °Ë»ö | ¾ÆÆÄÆ®´Â È£°»³ë³ë,0
+Æò³»µ¿ ÁøÁÖ3´ÜÁö'ÀÇ ÀÌ¾ß±â °Ë»ö | ¾ÆÆÄÆ®´Â È£°»³ë³ë,0
+Æò³»µ¿ Æò³»´ë¸í'ÀÇ ÀÌ¾ß±â °Ë»ö | ¾ÆÆÄÆ®´Â È£°»³ë³ë,0
+"È£Æòµ¿ ÇÏ¶ûÁßÇĞ±³'ÀÇ Æ¯¸ñ°í, ÀÚ»ç°í, °úÇĞ°í, ¿Ü°í, ±¹Á¦°í ÁøÇĞ·ü ¹× ¼ºÀû ¼øÀ§ Á¤º¸ | ¾ÆÆÄÆ®´Â È£°»³ë³ë",0
+"È£Æòµ¿ ÇÏ¶ûÃÊµîÇĞ±³'ÀÇ Çõ½ÅÃÊ, ÇĞ»ı¼ö Á¤º¸, ÁÖº¯ ¾ÆÆÄÆ® Á¤º¸ | ¾ÆÆÄÆ®´Â È£°»³ë³ë",0
+È£Æòµ¿ µÎ»ê¾ËÇÁÇÏÀÓ'ÀÇ ÀÌ¾ß±â °Ë»ö | ¾ÆÆÄÆ®´Â È£°»³ë³ë,0
+°ÇÆóÀ² - Google °Ë»ö,0
+"°ÇÆóÀ² - À§Å°¹é°ú, ¿ì¸® ¸ğµÎÀÇ ¹é°ú»çÀü",0
+"[Àá½Ç] Á¡½É @ Ä¡¸¶¿À / ¹Í½º°¡Ã÷µ¿, »ï°ãÀÌµû¸ÅÁ¤½Ä : ³×ÀÌ¹ö ºí·Î±×",0
+clakdh - Google °Ë»ö,0
+ÄÚµù - YouTube,0
+ÆÄÀÌ½ã ÄÚµù ¹«·á °­ÀÇ (±âº»Æí) - 6½Ã°£ µÚ¸é ¿©·¯ºĞµµ °³¹ßÀÚ°¡ µÉ ¼ö ÀÖ¾î¿ä [³ªµµÄÚµù] - YouTube,0
+°¹¸¶À» Â÷Â÷Â÷ - ³İÇÃ¸¯½º,0
+https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=¾ÖÇÃ¿öÄ¡+½ºÆ®·¦,0
+¾ÖÇÃ¿öÄ¡ ½ºÆ®·¦ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+¾ÆÀÌ¿¥µà ¾ÖÇÃ¿öÄ¡ ½ºÆ®·¦ ¸ŞÅ» Áêºô·¹ ·çÇÁ ¹êµå ½Ã°èÁÙ 44mm : ³×ÀÌ¹ö ¼îÇÎ,0
+¾ÖÇÃ¿öÄ¡ ½ºÆ®·¦ ¸ŞÅ» Áêºô·¹ ·çÇÁ ¹êµå ½Ã°èÁÙ : ¾ÆÀÌ¿¥µà ÄÚ¸®¾Æ,0
+¾ÖÇÃ¿öÄ¡ ½ºÆ®·¦ - YouTube,0
+¾ÖÇÃ¿öÄ¡ À¯Àú¶ó¸é ²À º¸¼¼¿ä!!!!Âğ ³»µ·³»»ê ÁÙÁú ÈÄ±â~ ½ºÆ®·¦&ÄÉÀÌ½º ÃßÃµ!! - YouTube,0
+[¿À´ÃÃâ¹ß][°ø±¸ÁõÁ¤]¾ÖÇÃ¿öÄ¡ ½½¸² ¸ŞÅ»½ºÆ®·¦ ¹Ğ·¹´ÏÁî·çÇÁ Åõ¸í °¡Á×,0
+¾ÖÇÃ¿öÄ¡ ½ºÆ®·¦ÀÇ Á¤Á¡ ¿ì¸Õ½º9999 : ¿ì¸Õ½º9999,0
+¾ÆÀÌ¿¥µà ÄÚ¸®¾Æ,0
+¾ÖÇÃ¿öÄ¡ ¸ŞÅ» ¸¶±×³×Æ½ ½ºÆ®·¦ ·çÇÁ ¹êµå ½Ã°èÁÙ : ¾ÆÀÌ¿¥µà ÄÚ¸®¾Æ,0
+¾ÖÇÃ¿öÄ¡ ¹öÅ¬ °¡Á× ¹êµå ·çÇÁ ÁÙ ½ºÆ®·¦ : ¾ÆÀÌ¿¥µà ÄÚ¸®¾Æ,0
+¾ÖÇÃ¿öÄ¡ ¹Ğ·¹´ÏÁî·çÇÁ ½ºÆ®·¦ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+·Î·£ÅØ ¾ÖÇÃ¿öÄ¡6 5 4 3 SE ¿ë ¸¶±×³×Æ½ ¸ŞÅ» ½ºÆ®·¦ : ³×ÀÌ¹ö ¼îÇÎ,0
+·Î·£ÅØ ¾ÖÇÃ¿öÄ¡6 / SE 40mm ¿ë ¸¶±×³×Æ½ ¸ŞÅ» ½ºÆ®·¦ : ·Î·£ÅØ,0
+¾ÖÇÃ¿öÄ¡ ²Ù¹Ì±â ²ÜÆÁ! ÆäÀÌ½º & ½ºÆ®·¦ ÃßÃµ ¿µ»ó-!  - YouTube,0
+¾ÖÇÃ¿öÄ¡ ½áÁöÄÃ ½ºÆ®·¦ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+ºê·£µğ : ³×ÀÌ¹ö ÅëÇÕ°Ë»ö,0
+ÆĞ¼Ç ¼îÇÎ¾Û ºê·£µğ,0
+[ÅèÆçÆ°] ¹Ì±¹ ³¯¶ó¸® ¹ßÀ½À» ½ÃÄÑº¸¾Ò´Ù(½½·³°¡¿¡¼­ ÅÂ¾î³­ ¸»Æ÷ÀÌ) - YouTube,0
+[sub]ÇÏÀÌ¶óÀÌÆ® | Èï ³ÑÄ¡°í ¹èºÎ¸¥ ÂğÄ£ ÄÉ¹Ì 99Áî ¿ì´çÅÁ »êÃÌ»ìÀÌ ¹Ì¸®º¸±â! | ½½±â·Î¿î »êÃÌ»ıÈ° - YouTube,0
+¾ÖÇÃ¿öÄ¡ »Ì±â ´ë½ÇÆĞ | SE ½ºÆäÀÌ½º±×·¹ÀÌ ½ºÆ®·¦ ÃßÃµ - YouTube,0
+"Áö¼®Áø, ÈÅ µé¾î¿Â PD ¹İ¸»¿¡ ´çÈ²! - YouTube",0
+"Åè È¦·£µåÀÇ ±Í¿©¿î ¸»½À°ü ""´Ş¸µ~¢½"" ¸ğÀ½¤»¤» - YouTube",0
+¾ÖÇÃ¿öÄ¡ ¹êµå 24°³!!°¡°İ/ÀåÁ¡/´ÜÁ¡/»ç¿ëÈÄ±â ½Ï Á¤¸®ÇØµå¸±°Ô¿ä(¾ÖÇÃÁ¤Ç°/¾Ë¸®ÀÍ½ºÇÁ·¹½º ¹êµå ºñ±³) - YouTube,0
+¾ÖÇÃ¿öÄ¡ ¹Ğ·¹´ÏÁî ·çÇÁ½ºÆ®·¦ - YouTube,0
+¾ÖÇÃ¿öÄ¡ ¹Ğ·¹´ÏÁî·çÇÁ ½ºÆ®·¦ Á¤Ç° °¡Ç° ºñ±³ - YouTube,0
+¾ÖÇÃ¿öÄ¡ ¹Ğ·¹´ÏÁî·çÇÁ ÀÌ·¸°Ô ½áº¸¼¼¿ä - YouTube,0
+¾îÄí½ºÆ½Äİ¶óº¸ ³Ê¹«º¸°í½Í¾î - YouTube,0
+[MV] Acoustic Collabo(¾îÄí½ºÆ½ Äİ¶óº¸) _ ³Ê¹« º¸°í½Í¾î (¿¬¾ÖÀÇ ¹ß°ß OST Part 6) - YouTube,0
+³Ê¹« º¸°í ½Í¾î - ¾îÄí½ºÆ½Äİ¶óº¸ (cover by À¯ÀÌ¼³) - YouTube,0
+È­ÀåÀ» °íÄ¡°í - ¿Î½º (cover by À¯ÀÌ¼³) - YouTube,0
+Àü»ó±Ù - YouTube,0
+Àü»ó±Ù ³Ê¹« - YouTube,0
+Àü»ó±Ù ³Ê¹«º¸°í½Í¾î - YouTube,0
+Àü»ó±Ù(Jeon Sang Keun) - ³Ê¹« º¸°í½Í¾î (¿ø°î : ¾îÄí½ºÆ½ Äİ¶óº¸) - YouTube,0
+³Ê¹« º¸°í½Í¾î (³Ê¿¡°Ô ÇÏ°í ½ÍÀº ¸» X Àü»ó±Ù) °¡·Î ¶óÀÌºê Full ver. - YouTube,0
+³Ê¹« º¸°í½Í¾î (³Ê¿¡°Ô ÇÏ°í ½ÍÀº ¸» X Àü»ó±Ù) ¶óÀÌºê Full ver. - YouTube,0
+Àü»ó±Ù X ¾È´ÙÀº - ³Ê¹« º¸°í½Í¾î ·£¼± ¶óÀÌºê Full ver. - YouTube,0
+Àü»ó±Ù Åğ±Ù¹ö½º - YouTube,0
+[ÀÌº° ÈÄ] Àü»ó±Ù(Jeon Sang Keun) - Åğ±Ù¹ö½º(Natural Sorrow) Special Clip - YouTube,0
